@@ -1,0 +1,641 @@
+{{Ficha de película
+| entidad = 
+| título original = Avengers: Infinity War
+| título = ''Vengadores: Infinity War'' {{small|([[España]])}}
+| imagen = [[Archivo:Infinity_war.png|250px]]
+| dirección = [[Anthony y Joe Russo|Anthony Russo<br>Joe Russo]]
+| producción = [[Kevin Feige]]
+| guion = [[Christopher Markus]]<br>[[Stephen McFeely]]
+| música = [[Alan Silvestri]]
+| fotografía = Trent Opaloch
+| montaje = Jeffrey Ford<br>Matthew Schmidt
+| protagonistas = {{Plainlist|
+*[[Robert Downey Jr.]]
+*[[Chris Hemsworth]]
+*[[Mark Ruffalo]]
+*[[Chris Evans]]
+*[[Scarlett Johansson]]
+*[[Don Cheadle]]
+*[[Benedict Cumberbatch]]
+*[[Tom Holland]]
+*[[Chadwick Boseman]]
+*[[Zoe Saldana]]
+*[[Karen Gillan]]
+*[[Tom Hiddleston]]
+*[[Paul Bettany]]
+*[[Elizabeth Olsen]]
+*[[Anthony Mackie]]
+*[[Sebastian Stan]]
+*[[Idris Elba]]
+*[[Danai Gurira]]
+*[[Peter Dinklage]]
+*[[Benedict Wong]]
+*[[Pom Klementieff]]
+*[[Dave Bautista]]
+*[[Vin Diesel]]
+*[[Bradley Cooper]]
+*[[Gwyneth Paltrow]]
+*[[Benicio del Toro]]
+*[[Josh Brolin]]
+*[[Chris Pratt]]
+}}
+| basada en = {{basada en|''[[Los Vengadores]]''|[[Stan Lee]] y [[Jack Kirby]]}}
+| país = {{Bandera|Estados Unidos}} [[Estados Unidos]]
+| año = 2018
+| estreno1 = [[27 de abril]] de [[2018]]
+| género = [[Género de acción|Acción]] <br> [[Aventura]] <br>[[Cine de Ciencia Ficción|Ciencia ficción]]<br> [[Cine fantástico|Fantasía]] <br> [[Cine de superhéroes|Superhéroes]]
+| duración = 149 minutos
+| clasificación = {{Bandera|Estados Unidos}} [[Archivo:RATED PG-13.svg|50px]]<small> [[Asociación Cinematográfica de Estados Unidos|Intensas secuencias de acción y violencia de ciencia ficción, lenguaje y algunas referencias crudas]]</small> <br>{{Bandera|Argentina}} +13 <br>{{Bandera|ESP}} [[Archivo:ICAA_12.svg|25px]] <br/> {{Bandera|CHI}} TE+7 <br/> {{Bandera|CAN}} PG <br/> {{Bandera|Alemania}} FSK 12 <br/>{{Bandera|México}} B <br/> {{Bandera|Brasil}} +12 <br/> {{bandera|Portugal}} M/12 <br/> {{Bandera|SWE}} +11 <br/> {{Bandera|Noruega}} [[Autoridad de Medios de Comunicación (Noruega)|+12]] <br/> {{Bandera|FIN}} K-12 <br/> {{Bandera|COL}} +7 <br/> {{Bandera|PER}} PT <br/> {{Bandera|ECU}} +12 <br/> {{Bandera|VEN}} B <br/> {{Bandera|AUS}} M <br/> {{Bandera|DNK}} +11 <br/> {{Bandera|Rusia}} 16+
+| idioma = [[Idioma inglés|Inglés]]
+| productora = [[Marvel Studios]]
+| distribución = [[Walt Disney Studios Motion Pictures]]
+| presupuesto = [[$]]300 millones<ref name="DeadlineProfitAnalysis">{{cite web|url=http://deadline.com/2018/05/avengers-infinity-war-box-office-profit-russo-brothers-success-1202382804/|title='Avengers: Infinity War' Marches Toward $600M Profit; How The Russo Brothers Mapped Out The Marvel Hit|last=D'Alessandro|first=Anthony|work=[[Deadline Hollywood]]|date=8 de mayo de 2018|accessdate=8 de mayo de 2018|archiveurl=https://www.webcitation.org/6zJqBWzE3?url=http://deadline.com/2018/05/avengers-infinity-war-box-office-profit-russo-brothers-success-1202382804/|archivedate=10 de mayo de 2018|deadurl=no}}</ref><ref name="ForbesBudget">{{cite web|url=https://www.forbes.com/sites/csylt/2018/04/27/disney-reveals-avengers-infinity-wars-financial-muscle/#19e85c0e4e48|title=Disney Reveals Financial Muscle Of 'Avengers: Infinity War'|last=Sylt|first=Christian|work=[[Forbes]]|date=27 de abril de 2018|accessdate=3 de mayo de 2018|archiveurl=https://www.webcitation.org/6z95lRrbK?url=https://www.forbes.com/sites/csylt/2018/04/27/disney-reveals-avengers-infinity-wars-financial-muscle/#19e85c0e4e48|archivedate=3 de mayo de 2018|deadurl=no}}</ref><ref name="VarietyBudget">{{cite web|url=https://variety.com/2018/film/box-office/avengers-infinity-war-biggest-box-office-opening-ever-1202791751/|title='Avengers: Infinity War' Officially Lands Biggest Box Office Opening of All Time|last=Rubin|first=Rebecca|work=[[Variety (revista)|Variety]]|date=30 de abril de 2018|accessdate=14 de mayo de 2018|archiveurl=https://www.webcitation.org/6zQ2ITn0a?url=http://variety.com/2018/film/box-office/avengers-infinity-war-biggest-box-office-opening-ever-1202791751/|archivedate=14 de mayo de 2018|deadurl=no}}</ref>
+| recaudación = [[$]]2 048 359 754<ref>{{cita web|url = http://www.boxofficemojo.com/movies/?id=marvel0518.htm|título = Avengers: Infinity War|fechaacceso = 16 de enero de 2019|editorial = Box Office Mojo}}</ref>
+| criterio_sucesión = ''[[Tetralogía de Avengers|Avengers]]''
+| precedida_por = [[Avengers: Age of Ultron]]
+| sucedida_por = [[Avengers: Endgame]]
+| criterio_sucesión2 = [[Universo cinematográfico de Marvel]]
+| precedida_por2 = [[Black Panther (película)|Black Panther]]
+| sucedida_por2 = [[Ant-Man and the Wasp]]
+}}
+
+'''''Avengers: Infinity War'''''<ref>{{Cita web|url=http://www.tomatazos.com/noticias/330123/Avengers-Infinity-War-es-la-segunda-pelicula-mas-cara-de-todos-los-tiempos|título=Avengers: Infinity War es la segunda película más cara de todos los tiempos.}}</ref> (titulada '''''Vengadores: Infinity War''''' en [[España]]) es una [[película]] [[Estadounidenses|estadounidense]] de [[Películas de superhéroes|superhéroes]] de 2018, basada en el equipo de superhéroes de [[Marvel Comics]] los [[Los Vengadores|Vengadores]], producida por [[Marvel Studios]] y distribuida por [[Walt Disney Studios Motion Pictures]]. Es la secuela de ''[[The Avengers (película de 2012)|The Avengers]]'' (2012) y ''[[Avengers: Age of Ultron]]'' (2015), ubicándose como la décimo novena película del [[Universo cinematográfico de Marvel]]. Dirigida por los hermanos [[Anthony y Joe Russo|Anthony Russo y Joe Russo]], a partir de un guion escrito por [[Christopher Markus]] y [[Stephen McFeely]], cuenta con un [[reparto coral]] que incluye a [[Robert Downey Jr.]], [[Chris Evans]], [[Chris Hemsworth]], [[Mark Ruffalo]], [[Scarlett Johansson]], [[Don Cheadle]], [[Benedict Cumberbatch]], [[Tom Holland]], [[Chadwick Boseman]], [[Paul Bettany]], [[Elizabeth Olsen]], [[Anthony Mackie]], [[Sebastian Stan]], [[Danai Gurira]], [[Letitia Wright]], [[Karen Gillan]], [[Dave Bautista]], [[Zoe Saldana]], [[Vin Diesel]], [[Bradley Cooper]], [[Josh Brolin]] y [[Chris Pratt]]. En ''Avengers: Infinity War'', Los Vengadores y los [[Guardianes de la Galaxia (cómic)|Guardianes de la Galaxia]] intentan evitar que [[Thanos]] obtenga las poderosas [[Gemas del Infinito]].<ref>{{Obra citada|título=Avengers: Infinity War|idioma=es-LA|url=http://www.tomatazos.com/peliculas/26892/Avengers-Infinity-War|fechaacceso=20 de abril de 2018}}</ref> 
+
+La película fue anunciada en octubre de 2014 como ''Avengers: Infinity War – Part 1''. Los hermanos Russo se unieron para dirigir en abril de 2015 y en mayo, Markus y McFeely firmaron para escribir el guion de la película, que se inspira en el cómic ''[[Guantelete del Infinito|The Infinity Gauntlet]]'' (1991), de [[Jim Starlin]], y el cómic ''Infinity'' (2013), de Jonathan Hickman. En julio de 2016, Marvel acortó el título a ''Avengers: Infinity War''. La filmación comenzó en enero de 2017 en [[Pinewood Studios#Atlanta|Pinewood Atlanta Studios]] en el [[Condado de Fayette (Georgia)|Condado de Fayette]], [[Georgia (estado)|Georgia]], y duró hasta julio de 2017, rodándose de forma consecutiva con su secuela directa. El rodaje adicional tuvo lugar en [[Escocia]], [[Inglaterra]], el área del centro de [[Atlanta]] y la ciudad de [[Nueva York]]. Con un presupuesto estimado de alrededor de $316 millones de dólares, es la [[Anexo:Películas más costosas|película más cara jamás realizada]].
+
+''Avengers: Infinity War'' tuvo su estreno mundial el 23 de abril de 2018 en [[Los Ángeles]], y se estrenó en [[Estados Unidos]] el 27 de abril de 2018, en [[IMAX]] y [[3D]]. La película recibió críticas  positivas por parte los críticos, quienes elogiaron la actuación del elenco, los efectos visuales, el peso emocional de la historia y las escenas de acción. Ha recaudado más de $2 mil millones de dólares en todo el mundo, por lo que es la [[Anexo:Cine en 2018#Películas más taquilleras|película más taquillera de 2018]], así como la [[Anexo:Películas con las mayores recaudaciones|quinta película más taquillera de todos los tiempos]]. En su fin de semana de estreno, recaudó $641 millones de dólares en todo el mundo y $258 millones en Estados Unidos y Canadá, estableciendo los récords de las aperturas más taquilleras para ambos. Su secuela, ''[[Avengers: Endgame]]'', fue estrenada el 26 de abril de 2019.
+
+== Argumento ==
+Después de haber adquirido la [[Gemas del Infinito#Gema del Poder|Gema del Poder]] que había quedado bajo custodia de los [[Nova Corps]] en el [[Xandar|planeta Xandar]],<ref name="AIW Análisis Sabanerox">{{cita web|título=Avengers: Infinity War ^ Análisis y Explicación|url=https://sabanerox.com/2018/04/27/avengers-infinity-war-analisis-y-explicacion/|fecha=27 de abril de 2018|sitioweb=sabanerox.com}}</ref><ref name="AIW Gemas Hobbyconsolas">{{cita web|título=¿Dónde están las Gemas del Infinito después de Thor: Ragnarok?|url=https://www.hobbyconsolas.com/noticias/donde-estan-gemas-infinito-despues-thor-ragnarok-173902|fecha=7 de noviembre de 2017|sitioweb=www.hobbyconsolas.com}}</ref><ref name="Gemas Análisis CC">{{cita web|título=SPOILERS. Vengadores: Infinity War. La ubicación de todas las gemas del infinito y cómo entran en juego|url=https://www.cinemascomics.com/vengadores-infinity-war-ubicacion-de-cada-una-de-las-gemas-del-infinito/|fecha=28 de abril de 2018|sitioweb=www.cinemascomics.com}}</ref><ref name="AIW Sucesos CB">{{cita web|título=Los detalles de ‘Avengers: Infinity War’ que seguro no viste|url=https://cuatrobastardos.com/2018/05/19/los-detalles-de-avengers-infinity-war-que-seguro-no-viste/|fecha=19 de mayo de 2018|sitioweb=cuatrobastardos.com}}</ref> el malvado titán intergaláctico [[Thanos]], intercepta la nave espacial que transportaba a los sobrevivientes de [[Thor: Ragnarok|la destrucción de Asgard]] y la ataca.<ref name="AIW M La Prensa">{{cita web|título=Avengers: Infinity War: ¿qué personajes murieron en la guerra contra Thanos?|url=https://laprensa.peru.com/espectaculos/noticia-avengers-infinity-war-personajes-muertos-quienes-murieron-thanos-marvel-78561?ref=te_puede_interesar&ft=internas|editorial=La Prensa.pe|fecha=24 de abril del 2019}}</ref> Durante el asalto a la nave, Thanos y [[Orden Negro (cómics)|sus lugartenientes]], [[Ebony Maw]], [[Black Dwarf (cómic)|Cull Obsidian]], [[Proxima Midnight|Próxima Midnight]] y [[Corvus Glaive]], exterminan a la mitad de la tripulación.<ref name="AIW Sucesos CB" /> Thanos somete a [[Thor (cómic)|Thor]] y amenaza a [[Loki (Marvel Comics)|Loki]] con matar a su hermano adoptivo si no le entrega el [[Cubo Cósmico|Teseracto]],<ref name="Gemas Análisis CC" /> al principio Loki finge que no le importa la vida de su hermano, pero al ver la determinación de Thanos, cede ante la presión y le muestra el Teseracto para ganar tiempo hasta que llega [[Hulk]] y comienza a pelear contra el guerrero extraterrestre, no obstante, el titán demostró tener más habilidad en la lucha mano a mano y derrota rápidamente a Hulk.<ref>{{cita web|título=Motivo por el que Thanos derrotó a Hulk en Vengadores: Infinity War|url=https://www.cinemascomics.com/motivo-thanos-derroto-hulk-vengadores-infinity-war/|fecha=3 de diciembre de 2018|sitioweb=www.cinemascomics.com}}</ref><ref name="AIW Análisis Gamecored">{{cita web|título=Avengers Infinity Wars: ¡Análisis con SPOILERS!|url=https://www.gamecored.com/avengers-infinity-wars-analisis-con-spoilers/|fecha=28 de abril de 2018|sitioweb=www.gamecored.com}}</ref> Al ver esto, [[Heimdall (cómic)|Heimdall]] quien yacía malherido en el suelo, usa lo que le queda de energía oscura para enviar a Bruce Banner / Hulk de regreso a la Tierra invocando el Bifröst,<ref name="AIW M La Prensa" /> eso enfadó a Thanos y en represalia asesina a Heimdall.<ref name="AIW M La Prensa" /> Luego extrae la [[Gemas del Infinito#Gema del Espacio|Gema del Espacio]] del Teseracto y mata a Loki.<ref name="AIW Análisis Sabanerox" /><ref name="AIW M La Prensa" /> Una vez que cumple su cometido, Thanos se va con sus lugartenientes y destruye la nave espacial.<ref>{{cita web |url=https://www.telegraph.co.uk/films/0/avengers-infinity-war-movie-review-crowd-pleasing-action-disappointingly/ |título=Avengers: Infinity War movie review - crowd-pleasing action in a disappointingly basic formula |fechaacceso=25 de mayo de 2018 |apellido=Robey |nombre=Tim |fecha=1 de mayo de 2018 |editorial=https://www.telegraph.co.uk |idioma=Inglés}}</ref>
+
+Mientras tanto, Hulk aterriza forzosamente en el [[Sanctum Sanctorum (Marvel Comics)|Sanctum Sanctorum]] de la ciudad de [[Nueva York]], transformándose en Bruce Banner<ref name="AIW Sucesos CB" /> y les advierte al [[Doctor Strange]] y a [[Wong (cómic)|Wong]] que Thanos viene en busca de las [[Gemas del Infinito]]. Para hacer frente a la amenaza inminente, Strange acude a [[Iron Man|Tony Stark / Iron Man]] solicitándole su colaboración<ref name="AIW Sucesos CB" /> y lo trae al Sanctum Sanctorum. Allí, él y Wong le hablan sobre las Gemas del Infinito y le informan que Strange está a cargo de cuidar la [[Gemas del Infinito#Gema del Tiempo|Gema del Tiempo]], Bruce le dice a Tony que Thanos se dirige hacia la Tierra para llevar a cabo su plan de asesinar a la mitad de las criaturas vivientes en el universo, entonces Tony discute con el Doctor Strange sobre si deberían destruir la Gema del Tiempo y Bruce le dice a Tony que tienen que encontrar a su compañero Visión pues es el portador de la Gema de la Mente.<ref name="AIW Análisis Sabanerox" /><ref name="AIW Gemas Hobbyconsolas" /><ref name="Gemas Análisis CC" /> Tony dice que perdió toda comunicación con Visión y que el único que podría localizarlo es Steve Rogers, pero muestra su disgusto ante la idea de comunicarse con él luego del [[Capitán América: Civil War|enfrentamiento que tuvieron en Siberia]],<ref name="AIW Sucesos CB" /> finalmente Bruce lo persuade. Pero cuando Tony se disponía a llamar a Rogers con el teléfono móvil que recibió por correo postal tiempo atrás,<ref name="AIW Sucesos CB" /> Maw y Obsidian llegan para arrebatarle la Gema del Tiempo a Strange, y tienen un combate que llama la atención de [[Spider-Man|Peter&nbsp;Parker&nbsp;/&nbsp;Spider&#8288;-&#8288;Man]]. Maw captura al Doctor Strange,<ref name="AIW Análisis Gamecored" /><ref name="AIW Sucesos CB" /> pero no logra quitarle la Gema del Tiempo debido a un encantamiento. Iron Man y [[Araña de Hierro|Iron Spider]] persiguen la nave espacial de Maw, mientras Bruce Banner contacta a [[Capitán América|Steve Rogers]] con el teléfono móvil antiguo y Wong por su parte se queda para proteger el Sanctum Sanctorum.<ref name="AIW Sucesos CB" />
+
+En [[Escocia]], Midnight y Glaive emboscan a [[Bruja Escarlata|Wanda Maximoff]] y [[Visión (cómic)|Visión]] para obtener la [[Gemas del Infinito#Gema de la Mente|Gema de la Mente]] en la frente de Visión. Rogers, [[Viuda Negra (cómic)|Natasha Romanoff / Black Widow]] y [[Falcon (cómic)|Sam&nbsp;Wilson&nbsp;/&nbsp;Falcon]] los rescatan y se refugian con [[Máquina de Guerra|James Rhodes]] y Bruce en el complejo de [[Los Vengadores]].<ref name="AIW Sucesos CB" /> Visión ofrece sacrificarse haciendo que Wanda destruya la Gema de la Mente en su cabeza para evitar que Thanos la obtenga. Sin embargo, Rogers sugiere que viajen a [[Wakanda]], donde él cree que tienen los recursos para sustraer la gema sin destruir a Visión.
+
+En el [[espacio exterior]], Los [[Guardianes de la Galaxia (equipo de 2008)|Guardianes de la Galaxia]] responden a una llamada de auxilio emitida por la nave asgardiana antes de ser destruida y rescatan a Thor, quien se encontraba flotando entre los restos de la nave.<ref name="Eitri Análisis SM">{{cita web|título=Eitri y el Reino de Nidavellir en los cómics|url=https://www.smashmexico.com.mx/marvel/avengers-infinity-war-eitri-nidavellir-comics/|fecha=27 abril de 2018|sitioweb=www.smashmexico.com.mx}}</ref> Luego de ser rescatado, Gamora le habla sobre Thanos y su ambición por reunir las Gemas del Infinito para acabar con la mitad de todas las formas de vida. Thor les menciona que Thanos va en busca de la [[Gemas del Infinito#Gema de la Realidad|Gema de la Realidad]], la cual está en posesión del coleccionista intergaláctico [[Coleccionista (cómic)|Taneleer  Tivan]] en [[Knowhere]], no obstante, Thor tiene la intención de ir hacia Nidavellir para forjar una nueva arma, [[Rocket Raccoon|Rocket&nbsp;Raccoon]] se mostró muy interesado en conocer aquel lugar de leyenda y acompaña a Thor junto con [[Groot]],<ref name="Stormbreaker Análisis HC">{{cita web|título=¿Qué es el Rompetormentas de Thor de Vengadores Infinity War?|url=https://www.hobbyconsolas.com/reportajes/que-es-rompetormentas-thor-vengadores-infinity-war-292575|fecha=21 de agosto de 2018|sitioweb=www.hobbyconsolas.com}}</ref><ref name="Eitri Análisis SM" /><ref name="AIW Sucesos CB" /> mientras el resto de los guardianes se dirigen a Knowhere, para intentar evitar que Thanos se apodere de la Gema de la Realidad.<ref name="AIW M La Prensa" />
+
+Rocket, Groot y Thor llegan a la legendaria base espacial de [[Nidavellir]] en algún lugar del cosmos. Al aterrizar descubren que la estrella que alimenta la [[fragua]] de la base está congelada y que el lugar está desierto,<ref name="Eitri Análisis SM" /><ref name="Eitri Análisis Vix">{{cita web|título=El heroico papel de Peter Dinklage en Avengers: Infinity War|url=https://www.vix.com/es/cine/200810/el-heroico-papel-de-peter-dinklage-en-avengers-infinity-war|sitioweb=www.vix.com}}</ref> cuando se percatan de que hay un modelo del guante de Thanos en el taller, Thor presintiendo lo peor, les dice a Groot y Rocket que salgan de la base, pero antes de que pudieran escapar, el gran rey enano [[Eitri (cómic)|Eitri]] aparece y los ataca por detrás alterado por la tragedia que acaba de suceder recientemente. Thor le pide que se detenga pero Eitri está lleno de ira y angustia porque sus aliados, los asgardianos no protegieron a su gente cuando Nidavellir fue atacada por las fuerzas de Thanos. Luego de que Thor le informa que el reino de Asgard ya no existe, Eitri conmocionado, le cuenta a Thor que fue obligado a forjarle a Thanos una herramienta capaz de contener el poder de las Gemas del Infinito creyendo que era el único modo de que Thanos le perdonara la vida a él y a los trescientos enanos que vivían en la base. Pero el despiadado titán mató a todos los habitantes de Nidavellir y le quemó las manos al rey enano.<ref name="Eitri Análisis Vix" /><ref>{{cita web|título=¿A quién interpreta Peter Dinklage en Vengadores: Infinity War?|url=https://es.ign.com/vengadores-infinity-war/132398/news/a-quien-interpreta-peter-dinklage-en-vengadores-infinity-war|fecha=26 de abril de 2018|sitioweb=es.ign.com}}</ref><ref name="AIW Sucesos CB" /> Sin embargo Thor alienta a Eitri a no perder las esperanzas diciéndole que aún tiene los conocimientos necesarios para fabricar armas<ref name="Eitri Análisis Vix" /> y le propone unir fuerzas para forjar una nueva arma mágica con la cual derrotar a Thanos. Thor y Rocket se las ingenian para volver a encender la estrella de neutrones que mantiene en funcionamiento la base en forma de anillo,<ref name="Eitri Análisis Vix" /><ref name="AIW Sucesos CB" /> pero el conducto que canaliza la energía de la estrella se daña y la fragua no funciona impidiendo que puedan fundir el metal para forjar la nueva arma. Thor consciente de que nunca podrá vencer a Thanos sin su nueva hacha, no le queda más que arriesgar su vida. Con su gran fuerza, Thor logra mantener abierto el conducto pero su cuerpo queda expuesto al ardor de la estrella y estuvo a punto de morir calcinado, no obstante logran crear el hacha de batalla capaz de matar a Thanos llamada la [[Beta Ray Bill|Stormbreaker]]<ref name="Stormbreaker Análisis HC" /> y los poderes de Thor se revitalizan.
+
+[[Star-Lord|Peter Quill / Star-Lord]], [[Gamora]], [[Drax el Destructor|Drax]] y [[Mantis (cómic)|Mantis]] encuentran a Thanos quien está torturando al Coleccionista en [[Knowhere]].<ref name="AIW M La Prensa" /><ref name="Gemas Análisis CC" /> Los guardianes se mantuvieron escondidos observándolo desde la distancia y esperaban el momento oportuno para atacar, pero Thanos los escuchó cuando Drax impulsivamente trató de salir de su escondite para enfrentarlo, entonces Gamora decide combatir directamente al titán y logra acertarle dos puñaladas provocándole la muerte, pero se trataba de un doble de una realidad alternativa, la cual desaparece revelando que Thanos ya había destruido el lugar antes de que ellos llegaran y creó esa realidad alterna con el poder de la Gema de la Realidad como un señuelo para atraer a Gamora.<ref name="AIW Análisis Sabanerox" /><ref name="AIW M La Prensa" /><ref name="Gemas Análisis CC" /> Luego Thanos secuestra a Gamora y ella le revela la ubicación de la [[Gemas del Infinito#Gema del Alma|Gema del Alma]] para salvar a su hermana adoptiva [[Nebula (cómic)|Nébula]] de la tortura.<ref name="AIW Análisis Sabanerox" /><ref name="Gamora Análisis LP">{{cita web|título=Avengers: Infinity War: ¿dónde estaba la Gema del Alma y a quién mató Thanos para conseguirla?|url=https://laprensa.peru.com/espectaculos/noticia-avengers-infinity-war-donde-estaba-gema-alma-y-quien-mato-thanos-conseguirla-78565|editorial=La Prensa.pe|fecha=1 de mayo de 2018}}</ref><ref name="AIW M La Prensa" /><ref name="AIW Sucesos CB" /> Thanos y Gamora viajan al desolado planeta [[Vormir]], donde [[Cráneo Rojo|Red Skull]], guardián de la Gema del Alma,<ref name="AIW M La Prensa" /><ref name="AIW Sucesos CB" /> les informa que la gema solo se puede obtener sacrificando a un ser amado.<ref name="AIW Análisis Sabanerox" /><ref name="Red Skull Análisis SM">{{cita web|título=Te explicamos el cameo secreto de Avengers: Infinity War|url=https://www.smashmexico.com.mx/marvel/avengers-infinity-war-cameo-secreto-pelicula-marvel/|fecha=27 de abril de 2018|sitioweb=www.smashmexico.com.mx}}</ref><ref name="Gamora Análisis LP" /><ref name="Gemas Análisis CC" /> Thanos, sacrifica con angustia a su hija adoptiva Gamora, lanzándola al vacío,<ref name="AIW Análisis Gamecored" /><ref name="Red Skull Análisis SM" /><ref>{{cita web|título=Avengers: Infinity War: ¿qué pasó exactamente con Gamora?|url=https://laprensa.peru.com/espectaculos/noticia-avengers-infinity-war-gamora-muerte-que-paso-exactamente-thanos-marvel-78579|editorial=La Prensa.pe|fecha=1 de mayo del 2018}}</ref><ref name="AIW M La Prensa" /> después es teletransportado al lugar del planeta en donde está la Gema del Alma y finalmente la obtiene.<ref name="AIW Análisis Sabanerox" />
+
+Nébula escapa de su cautiverio y les pide a los guardianes restantes que la encuentren en las ruinas del mundo natal de Thanos, el planeta [[Titán (Marvel Comics)|Titán]]. Iron Man y Iron Spider matan a Maw<ref name="AIW M La Prensa" /> y rescatan al Doctor Strange. Más tarde, aterrizan en Titán, allí se encuentran con Star-Lord, Drax el Destructor y Mantis. El grupo forma un plan para quitarle el [[Guantelete del Infinito]] a Thanos después de que Strange usa la Gema del Tiempo para ver 14 millones de futuros alternos posibles, divisando solo uno en el que logran vencerlo.<ref name="AIW Análisis Sabanerox" /><ref name="Dr. Strange Análisis LP">{{cita web|título=Avengers: Infinity War: ¿por qué Doctor Strange tomó esta polémica decisión?|url=https://laprensa.peru.com/espectaculos/noticia-avengers-infinity-war-doctor-strange-que-gema-tiempo-iron-man-78577|editorial=La Prensa.pe|fecha=4 de mayo del 2018}}</ref> Thanos llega y justifica sus planes afirmando que son necesarios para garantizar la supervivencia de un universo amenazado por la superpoblación.<ref name="AIW Análisis Sabanerox" /><ref>{{cita web|título=Avengers: Infinity War: Thanos revela por qué quiere matar a la mitad del universo|url=https://laprensa.peru.com/espectaculos/noticia-avengers-infinity-war-thanos-revela-que-quiere-matar-mitad-universo-marvel-78563?ref=te_puede_interesar&ft=internas|editorial=La Prensa.pe|fecha=1 de mayo del 2018}}</ref> El grupo lo somete hasta que Nebula deduce que Thanos ha matado a Gamora. Enfurecido, Star-Lord lo ataca, permitiendo que Thanos rompa el control del grupo y los derrote.<ref>{{cita web|título=Chris Pratt habla sobre Star-Lord|url=https://cuatrobastardos.com/2018/05/31/chris-pratt-habla-sobre-star-lord/|fecha=31 de mayo de 2018|sitioweb=cuatrobastardos.com}}</ref> Iron Man termina gravemente herido por Thanos,<ref name="Dr. Strange Análisis LP" /> pero después el Doctor Strange decide ceder y hace el intercambio de la Gema del Tiempo a Thanos por la vida de Stark.<ref name="AIW Análisis Sabanerox" /><ref name="Dr. Strange Análisis LP" /><ref name="Gemas Análisis CC" />
+
+En la nación de [[Wakanda]], Steve Rogers se reúne con [[Bucky Barnes]] antes de la invasión inminente del ejército de Thanos. Los Vengadores, junto con el rey [[Pantera Negra (Marvel Comics)|T'Challa]] y las fuerzas de Wakanda, montan una defensa mientras [[Shuri (cómic)|Shuri]] trabaja para extraer la Gema de la Mente del cráneo de Visión.<ref name="AIW Análisis Gamecored" /><ref name="AIW Sucesos CB" /> Bruce Banner, incapaz de transformarse en Hulk, lucha en la [[Anexo:Armadura de Iron Man#Armadura Hulkbuster (Complemento Modular)|armadura Hulkbuster]] de Stark. Thor, Rocket Raccoon y Groot llegan para respaldar a Los Vengadores; Midnight, Obsidian y Glaive son asesinados<ref name="AIW M La Prensa" /> y su ejército es derrotado. Thanos llega a la Tierra y en ese momento, Wanda al no tener más opción, decide destruir la Gema de la Mente por petición de Visión quien termina muriendo en consecuencia,<ref name="AIW M La Prensa" /><ref name="Gemas Análisis CC" /> pero Thanos usa el poder de la Gema del Tiempo para resucitar a Visión y revertir la destrucción de la Gema de la Mente,<ref name="AIW M La Prensa" /><ref name="Gemas Análisis CC" /> Wanda sorprendida intenta ayudar a Visión y Thanos la golpea, luego mata a Visión con sus propias manos arrancándole de su cabeza la gema.<ref name="AIW Análisis Sabanerox" /><ref name="AIW Análisis Gamecored" /><ref name="AIW M La Prensa" /><ref name="Gemas Análisis CC" />
+
+Inmediatamente llega Thor y ataca a Thanos con un trueno, luego le lanza la Stormbreaker hiriéndolo de gravedad a pesar de que Thanos intentó repeler el ataque con el poder del guante.<ref name="Stormbreaker Análisis HC" /><ref name="AIW Análisis Gamecored" /><ref name="AIW M La Prensa" /><ref name="Gemas Análisis CC" /> Sin embargo, cuando Thor se disponía a matarlo, Thanos consigue activar el poder completo del Guantelete del Infinito al chasquear sus dedos dando inicio a la aniquilación de los seres vivos<ref name="AIW Análisis Gamecored" /><ref name="AIW M La Prensa" /> y se teletransporta a un lugar desconocido.<ref name="Gemas Análisis CC" /><ref name="AIW Sucesos CB" /> La mitad de la vida en el universo comienza a desaparecer, incluidos Bucky Barnes, T'Challa / Pantera Negra, Groot, Wanda Maximoff y Sam&nbsp;Wilson&nbsp;/&nbsp;Falcon.<ref name="AIW Análisis Sabanerox" /><ref name="AIW M La Prensa" /> Más allá de la Tierra, el efecto devastador del poder del guante también alcanza al planeta Titán en donde se encontraban Mantis, Drax, Peter Quill / Star-Lord, y el Doctor Strange quienes se desvanecen convirtiéndose en polvo,<ref name="AIW M La Prensa" /><ref name="AIW Sucesos CB" /> por último, Peter&nbsp;Parker&nbsp;/&nbsp;Iron Spider también muere deshaciéndose en polvo en los brazos de su mentor,<ref name="AIW Análisis Sabanerox" /><ref name="AIW Análisis Gamecored" /><ref name="AIW M La Prensa" /> dejando a Tony Stark profundamente consternado quien junto a Nebula son los únicos supervivientes que permanecen varados en el planeta Titán,<ref name="AIW M La Prensa" /><ref name="AIW V LP">{{cita web|título=Avengers: Infinity War: ¿qué personajes sobrevivieron y de quiénes no se sabe nada?|url=https://laprensa.peru.com/espectaculos/noticia-avengers-infinity-war-personajes-quienes-sobrevivieron-thanos-snap-78592?ref=te_puede_interesar&ft=internas|editorial=La Prensa.pe|fecha=4 de mayo de 2018}}</ref> por otra parte Banner, [[Hombre Mono (cómic)|M'Baku]], [[Okoye]], Máquina de Guerra, Rocket, Rogers, Black Widow y Thor quedan en el campo de batalla de Wakanda intentando averiguar lo que está sucediendo.<ref name="AIW V LP" /> En ese momento, Thanos se recupera de sus heridas en otro planeta y mira con satisfacción el amanecer.<ref name="AIW Análisis Sabanerox" /><ref name="AIW Análisis Gamecored" /><ref name="Gemas Análisis CC" />
+
+En la [[escena post-créditos]], [[Nick Fury]] y [[Maria Hill]] se trasladan en un auto por las calles de Nueva York preocupados por el reciente ataque extraterrestre e intentan localizar a Tony Stark,<ref name="AIW Pcrédito Análisis IGN">{{cita web|título=Explicamos la escena post-créditos de Avengers: Infinity War|url=https://latam.ign.com/avengers-infinity-war/48990/feature/explicamos-la-escena-post-creditos-de-avengers-infinity-war|fecha=27 de Abril de 2018|sitioweb=[https://latam.ign.com/ IGN Latam]}}</ref> quien no responde desde que la nave de Maw descendió en la ciudad durante la primera invasión a la Tierra, al tiempo que se informan sobre más avistamientos de naves espaciales en el país africano de Wakanda. De repente chocan contra un auto que se atraviesa en su camino tras perder el control patinando en el asfalto.<ref name="AIW Pcrédito Análisis LP">{{cita web|título=Avengers: Infinity War: ¿qué pasa en la escena post-créditos de la última película de los Vengadores?|url=https://laprensa.peru.com/espectaculos/noticia-avengers-infinity-war-que-pasa-escena-post-creditos-ultima-pelicula-vengadores-78547?ref=te_puede_interesar&ft=internas|editorial=La Prensa.pe|fecha=1 de mayo de 2018}}</ref> Cuando se aproximan al auto, descubren que está vacío<ref name="AIW Análisis Sabanerox" /><ref name="AIW Pcrédito Análisis IGN" /><ref name="AIW Pcrédito Análisis LP" /> y se está produciendo una serie de accidentes vehiculares, incluso un helicóptero se estrella contra un edificio.<ref name="AIW Análisis Sabanerox" /><ref name="AIW Pcrédito Análisis IGN" /><ref name="AIW Pcrédito Análisis LP" /> Ante esto, Nick Fury le ordena a Maria Hill alertar a las autoridades sobre el misterioso fenómeno pero Hill desaparece desintegrándose en polvo espontáneamente ante la mirada perpleja de Fury quien cae preso del pánico al ver que las personas a su alrededor se desvanecen y se apresura a enviar un mensaje de auxilio con un dispositivo que tenía guardado en el auto,<ref name="AIW Análisis Sabanerox" /><ref name="AIW Pcrédito Análisis IGN" /><ref name="AIW Pcrédito Análisis LP" /> pero él también es afectado por el poder destructivo del chasquido de Thanos que continúa expandiéndose en todo lo ancho del planeta y muere desintegrado dejando caer el dispositivo en la calle.<ref name="AIW Pcrédito Análisis IGN" /><ref name="AIW Pcrédito Análisis LP" /> La pantalla del dispositivo muestra que el mensaje ha sido recibido y revela la insignia de la [[Carol Danvers|Capitana Marvel]].<ref name="AIW Análisis Sabanerox" /><ref name="AIW Pcrédito Análisis IGN" /><ref name="AIW Análisis Gamecored" /><ref name="AIW Pcrédito Análisis LP" />
+
+== Reparto ==
+{{AP|Anexo:Reparto del Universo cinematográfico de Marvel|l1=Reparto del Universo cinematográfico de Marvel}}
+{{AP|Tetralogía de Avengers#Reparto y personajes|l1=Reparto de la tetralogía de Avengers}}
+* [[Robert Downey Jr]] como [[Iron Man|Tony Stark / Iron Man]]:
+: El líder y benefactor de los [[Los Vengadores|Vengadores]], que es auto descrito como un genio, multimillonario, playboy y filántropo con armaduras electromecánicas de su propia creación. El codirector [[Anthony y Joe Russo|Joe Russo]] explicó que Stark "siente que esta gran amenaza se acerca, por lo que está haciendo todo lo que está en su poder para mantener a salvo a la Tierra". Downey agregó que Stark tendría objetivos más pequeños que en películas anteriores.<ref name="DowneyClarify">{{cita web|url=http://www.hollywoodreporter.com/heat-vision/robert-downey-jr-joins-spider-885829|título=Robert Downey Jr. Joins 'Spider-Man: Homecoming'|apellido=Kit|nombre=Borys|obra=[[The Hollywood Reporter]]|fecha=21 de abril de 2016|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6gwJpLINa?url=http://www.hollywoodreporter.com/heat-vision/robert-downey-jr-joins-spider-885829|fechaarchivo=21 de abril de 2016|deadurl=no|idioma=inglés}}</ref><ref name="DowneyInfinity">{{cita web|url=http://marvel.com/news/movies/20786/robert_downey_jr_to_return_as_marvels_iron_man|título=Robert Downey Jr. To Return As Marvel's Iron Man|editorial=[[Marvel Comics|Marvel.com]]|fecha=20 de junio de 2013|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6HWVI49Mb?url=http://marvel.com/news/story/20786/robert_downey_jr_to_return_as_marvels_iron_man|fechaarchivo=20 de junio de 2013|deadurl=no|idioma=inglés}}</ref>
+
+* [[Chris Evans (actor)|Chris Evans]] como [[Capitán América|Steve Rogers / Capitán América]]:
+: Un superhéroe fugitivo y líder de una facción de los Vengadores, quien fue un veterano de la [[Segunda Guerra Mundial]] mejorado hasta la cima de la fisicalidad humana mediante un suero experimental y congelado en animación suspendida antes de despertarse en el mundo moderno. Joe Russo dijo que el personaje lucha con el conflicto entre su responsabilidad para con él y su responsabilidad hacia los demás. El personaje encarna el "espíritu" de su identidad alternativa de los cómics, Nómada, en la película, y recibe nuevos guanteletes de vibranium de Shuri para reemplazar su escudo circular tradicional.<ref>name="CapNoLongerCap">{{cita web|url=http://www.huffingtonpost.com/entry/directors-confirm-captain-america-isnt-captain-america-anymore_us_57bc97bfe4b03d51368b23da|título=Directors Confirm Captain America Isn’t Captain America Anymore|apellido=Bradley|nombre=Bill|editorial=[[The Huffington Post]]|fecha=24 de agosto de 2016|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6k1vG2i2S?url=http://www.huffingtonpost.com/entry/directors-confirm-captain-america-isnt-captain-america-anymore_us_57bc97bfe4b03d51368b23da|fechaarchivo=25 de agosto de 2016|deadurl=no|idioma=inglés}}</ref><ref name="CapNoLongerCap2">{{cita web|url=https://www.quora.com/Whats-in-store-for-Captain-America-now|título=What's in store for Captain America now?|apellido=Russo|nombre=Joe|obra=[[Quora]]|fecha=23 de septiembre de 2016|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6kjqTaGrq?url=https://www.quora.com/Whats-in-store-for-Captain-America-now|fechaarchivo=23 de septiembre de 2016|deadurl=no|idioma=inglés}}</ref>''
+
+* [[Chris Hemsworth]] como [[Thor (cómic)|Thor]]:
+: Un Vengador y el nuevo rey de Asgard basado en la [[Thor|deidad mitológica nórdica homónima]]. Joe Russo declaró que la historia de Thor se retoma después de los acontecimientos de ''[[Thor: Ragnarok]]'', que lo encuentra en un "lugar muy profundo...muy interesante" con una "motivación emocional real".<ref name="RussosApr2016">{{cita web|url=http://comicbook.com/2016/04/11/star-lord-and-thor-confirmed-for-avengers-infinity-war/|título=Russo Brothers Confirm Star-Lord And Thor In Avengers: Infinity War|apellido=Davis|nombre=Brandon|obra=ComicBook.com|fecha=10 de abril de 2016|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6ggCryJhN?url=http://comicbook.com/2016/04/11/star-lord-and-thor-confirmed-for-avengers-infinity-war/|fechaarchivo=11 de abril de 2016|deadurl=no|idioma=inglés}}</ref> Thor ahora empuña una hacha de batalla mística conocida como la Stormbreaker (''Rompetormentas'', en [[Idioma español|español]]), después de la destrucción de su martillo [[Mjolnir]] a manos de [[Hela (cómic)|Hela]] en ''Thor: Ragnarok''.<ref name="HemsworthEvans">{{cita web|url=http://collider.com/avengers-3-4-chris-hemsworth-reveals-marvel-movies-left-on-his-contract/|título=Chris Hemsworth Reveals the 3 Marvel Movies Left on His Contract|apellido=Chitwood|nombre=Adam|editorial=Collider|fecha=14 de abril de 2015|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6Xo5kQI9b?url=http://collider.com/avengers-3-4-chris-hemsworth-reveals-marvel-movies-left-on-his-contract/|fechaarchivo=15 de abril de 2015|deadurl=no|idioma=inglés}}</ref>''
+
+* [[Mark Ruffalo]] como [[Hulk|Bruce Banner / Hulk]]:
+: Un Vengador y genio científico que, debido a haber sido expuesto a la [[radiación gamma]], se transforma en un monstruo verde cuando se enfurece. Banner pasa la película tratando de reintegrarse con los Vengadores, y también trata de advertir a todos sobre el peligro que representa Thanos. Esto continúa un arco de la historia para el personaje que se estableció en ''Thor: Ragnarok'' y concluye en la cuarta película de los Vengadores, con la diferencia entre Hulk y Banner "comenzando a difuminarse un poco". Ruffalo describió a Hulk en ''Infinity War'' como alguien con la capacidad mental de un niño de cinco años.<ref name="RuffaloYahooJan2016">{{cita web | url=http://news.yahoo.com/mark-ruffalo-promises-epic-arc-for-hulk-across-173437861.html | título=Mark Ruffalo Promises Epic Arc For Hulk Across Thor 3 and Infinity War | editorial=[[Yahoo!]] | fecha=25 de enero de 2016 | fechaacceso=26 de febrero de 2017 | apellido=Butler | nombre=Tom | urlarchivo=https://www.webcitation.org/6eslzxPIM?url=http://news.yahoo.com/mark-ruffalo-promises-epic-arc-for-hulk-across-173437861.html | fechaarchivo=28 de enero de 2016 | deadurl=no | idioma=inglés }}</ref>''
+
+* [[Scarlett Johansson]] como [[Viuda Negra (cómic)|Natasha Romanoff / Black Widow]]:
+: Una espía altamente entrenada, y una ex Vengadora y agente de [[S.H.I.E.L.D.]] Johansson dijo que la situación de Romanoff después de los acontecimientos de ''[[Capitán América: Civil War]]'' ha sido "un momento oscuro. No diría que mi personaje ha sido particularmente esperanzador, pero creo que ella se ha endurecido aún más de lo que probablemente era antes".
+
+* [[Elizabeth Olsen]] como [[Bruja Escarlata|Wanda Maximoff / Bruja Escarlata]]: 
+:Miembro de la facción de Vengadores de Steve Rogers, que puede utilizar magia y emplear [[hipnosis]] y [[telequinesis]]. Mantiene una relación con Visión.<ref name="PrattOlsen">{{cita web|url=http://deadline.com/2016/07/avengers-infinity-war-avengers-3-marvel-studios-1201795344/|título=Marvel’s ‘Avengers 3’ Gets Official Title With Temp Name Hung On ‘Avengers 4’|apellido=Lincoln|nombre=Ross A.|sitioweb=[[Deadline.com]]|fecha=29 de julio de 2016|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6jNhNp6Vh?url=http://deadline.com/2016/07/avengers-infinity-war-avengers-3-marvel-studios-1201795344/|fechaarchivo=30 de julio de 2016|deadurl=no|idioma=inglés}}</ref>
+
+* [[Tom Holland]] como [[Spider-Man|Peter Parker / Spider-Man]] / [[Araña de Hierro|Iron Spider]]:
+:Un adolescente y aprendiz de Stark que recibió habilidades similares a los de una araña después de haber sido mordido por una araña genéticamente modificada.
+
+* [[Benedict Cumberbatch]] como [[Doctor Strange|Doctor Stephen Strange]]:
+: Un ex [[neurocirujano]] que, después de sufrir un accidente automovilístico que lo condujo a un viaje de sanación, descubrió el mundo oculto de la magia y las dimensiones alternativas y se convirtió en un Maestro de las Artes Místicas. Aaron Lazar sirvió como suplente de Cumberbatch hasta que este completó el rodaje de ''The Current War''.<ref name="CumberbatchStandIn">{{cita web|url=http://pagesix.com/2017/01/12/this-cumberbatch-body-double-is-basically-a-cumber-twin/|título=This Cumberbatch body-double is basically a Cumber-twin|apellido=Johnson|nombre=Richard|obra=Page Six ([[New York Daily News]])|fecha=12 de enero de 2017|fechaacceso=26 de febrero de 2017|archiveurl=https://www.webcitation.org/6nY3X2vsS?url=http://pagesix.com/2017/01/12/this-cumberbatch-body-double-is-basically-a-cumber-twin/|fechaarchivo=16 de enero de 2017|deadurl=no|idioma=inglés}}</ref> Cumberbatch volvió a filmar escenas en las que era necesario ver su cara. JayFunk una vez más ayudó a Cumberbatch con sus movimientos con los dedos.<ref name="CumberbatchInfinity">{{cita web|url=http://www.express.co.uk/entertainment/films/714446/Benedict-Cumberbatch-Doctor-Strange-Avengers-3-Infinity-War-Thor-Ragnarok-Robert-Downey-Jr|título=Benedict Cumberbatch’s Doctor Strange CONFIRMED for Avengers: Infinity War|apellido=Simpson|nombre=George|obra=[[Daily Express]]|fecha=26 de septiembre de 2016|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6koPTYPK3?url=http://www.express.co.uk/entertainment/films/714446/Benedict-Cumberbatch-Doctor-Strange-Avengers-3-Infinity-War-Thor-Ragnarok-Robert-Downey-Jr|fechaarchivo=26 de septiembre de 2016|deadurl=no|idioma=inglés}}</ref>''
+
+* [[Chadwick Boseman]] como [[Pantera Negra (Marvel Comics)|T'Challa / Pantera Negra]]: 
+:El rey de la nación africana de [[Wakanda]], que ganó su fuerza mejorada al ingerir la hierba en forma de corazón.
+
+* [[Zoe Saldana]] como [[Gamora]]: 
+: Una miembro de los Guardianes de la Galaxia que es huérfana de un mundo extraño que busca la redención por sus crímenes pasados. Ella fue criada por Thanos. Ariana Greenblatt interpreta a Gamora de niña.<ref name="Saldana">{{cita web|url=http://screenrant.com/avengers-infinity-war-gamora-zoe-saldana/|título=Gamora Confirmed for Avengers: Infinity War|apellido=Leadbeater|nombre=Alex|editorial=Screen Rant|fecha=9 de enero de 2017|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6nOnIJudJ?url=http://screenrant.com/avengers-infinity-war-gamora-zoe-saldana/|fechaarchivo=10 de enero de 2017|deadurl=no|idioma=inglés}}</ref>
+
+* [[Karen Gillan]] como [[Nebula (cómic)|Nebula]]: 
+: Una hija adoptiva de Thanos que se crio con Gamora como hermanas. Su cuerpo ha sido modificado con partes robóticas y es una asesina altamente entrenada.<ref name="Gillan">{{cita web|url=http://www.bbc.com/news/uk-scotland-highlands-islands-38638907|título=Karen Gillan on Tupperware Party, Inverness and Avengers|apellido=McLean|nombre=Pauline|publisher=[[BBC News]]|date=17 de enero de 2017|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6naaZPCEI?url=http://www.bbc.com/news/uk-scotland-highlands-islands-38638907|fechaarchivo=17 de enero de 2017|deadurl=no|idioma=inglés}}</ref>
+
+* [[Don Cheadle]] como [[Máquina de Guerra|James "Rhodey" Rhodes / Máquina de Guerra]]:
+: Un exoficial de la [[Fuerza Aérea de Estados Unidos]] que opera la armadura de Máquina de Guerra y es un Vengador. Después de su parálisis durante los eventos de ''Capitán América: Civil War'', Stark le da a Rhodes un aparato para caminar de nuevo, aunque él es reacio a ponerse su armadura de Máquina de Guerra y volver a unirse a los Vengadores debido a su lesión. Cheadle cree que Rhodes está "negociando esta reunión y su reincorporación al equipo". También explicó que la relación de Rhodes con Stark "se profundizó" después de su accidente y dijo: "Creo que Tony se siente un tanto responsable y culpable de alguna manera. Pero, de nuevo, siempre me ha respaldado de una manera que solo él realmente podría haberlo hecho".
+
+* [[Tom Hiddleston]] como [[Loki (Marvel Comics)|Loki]]: 
+:El hermano adoptivo de Thor basado en la [[Loki|deidad mitológica nórdica homónima]].
+
+* [[Paul Bettany]] como [[Visión (cómic)|Visión]]:
+: Un bio-androide y un Vengador creado usando la inteligencia artificial [[Edwin Jarvis|J.A.R.V.I.S.]] y la [[Gemas del Infinito|Gema de la Mente]]. Anthony Russo llamó a Visión "un [[MacGuffin]] viviente. Obviamente, eso aumenta las apuestas porque la vida de Visión está en peligro, y su vida está en conflicto con los objetivos de Thanos, así que algo tiene que ceder".
+
+* [[Anthony Mackie]] como [[Falcon (cómic)|Sam Wilson / Falcon]]:
+: Un miembro de la facción de Vengadores de Steve Rogers y un ex paracaidista y rescatista entrenado por los militares en combate aéreo usando un paquete de alas especialmente diseñado. Mackie notó que Wilson tiene rencor con otros héroes como Iron Man y Pantera Negra después de los acontecimientos de ''Capitán América: Civil War''.
+
+* [[Sebastian Stan]] como [[Bucky Barnes|Bucky Barnes / Soldado de Invierno]]:
+: Un asesino mejorado y el mejor amigo y aliado de Steve Rogers, que reapareció con el cerebro lavado después de haber sido dado como muerto en acción durante la [[Segunda Guerra Mundial]]. Barnes, que anteriormente fue el Soldado de Invierno, recibe el nombre Lobo Blanco por parte de la gente de Wakanda que ayudó a eliminar su programación de [[Hydra (cómic)|Hydra]].<ref name="Stan">{{cita web|url=http://www.hollywoodreporter.com/heat-vision/captain-america-actor-sebastian-stan-918302|título='Captain America' Actor Sebastian Stan to Star in Thriller 'We Have Always Lived in the Castle' (Exclusive)|apellido=Kit|nombre=Borys|obra=[[The Hollywood Reporter]]|fecha=9 de agosto de 2016|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6jeyNbzaH?url=http://www.hollywoodreporter.com/heat-vision/captain-america-actor-sebastian-stan-918302|fechaarchivo=10 de agosto de 2016|deadurl=no|idioma=inglés}}</ref>
+
+* [[Idris Elba]] como [[Heimdall (cómic)|Heimdall]]: 
+:El antiguo centinela asgardiano del Puente Bifröst que todo lo ve y escucha, basado en la [[Heimdall|deidad mitológica nórdica homónima]].
+
+* [[Danai Gurira]] como [[Okoye]]: 
+
+: Líder de las [[Dora Milaje]] y fiel aliada de T'Challa.
+
+* [[Peter Dinklage]] como [[Eitri (cómic)|Eitri]]:
+: El rey de los enanos de Nidavellir y forjador de armas mágicas, basado en la [[Eitri|deidad mitológica nórdica homónima]].
+
+* [[Benedict Wong]] como [[Wong (cómic)|Wong]]: 
+:Uno de los Maestros de las Artes Místicas, encargado de proteger algunas de las reliquias y libros más valiosos de Kamar-Taj. Es aliado de Stephen Strange.<ref name="Wong">{{cita web|url=http://comicbook.com/2016/10/21/benedict-wong-confirmed-for-avengers-infinity-war/|título=Benedict Wong Confirmed For Avengers Infinity War|apellido=Mueller|nombre=Matthew|sitioweb=ComicBook.com|fecha=21 de octubre de 2016|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6lR792rgm?url=http://comicbook.com/2016/10/21/benedict-wong-confirmed-for-avengers-infinity-war/|fechaarchivo=22 de octubre de 2016|deadurl=no|idioma=inglés}}</ref>
+
+* [[Pom Klementieff]] como [[Mantis (cómic)|Mantis]]: 
+: Una miembro de los [[Guardianes de la Galaxia (cómic)|Guardianes de la Galaxia]] con poderes empáticos.
+
+* [[Dave Bautista]] como [[Drax el Destructor]]: 
+: Un miembro de los Guardianes de la Galaxia y guerrero en busca de venganza contra Thanos por matar a su familia.
+
+* [[Vin Diesel]] como [[Groot]]:
+: Un miembro de los Guardianes de la Galaxia que es un humanoide en forma de árbol. El productor ejecutivo [[James Gunn]] explicó que Groot todavía es un adolescente en la película, en el mismo estado de crecimiento visto en una de las [[escenas post-créditos]] de ''[[Guardianes de la Galaxia Vol. 2]]''. Terry Notary proporcionó la [[captura de movimiento]] para Groot, y dijo que el personaje está "llegando a la mayoría de edad, por lo que se verá que el adolescente encuentra un mentor al cual admirar y para modelarse después".<ref name="DieselConfirm">{{cita web|url=http://screenrant.com/vin-diesel-groot-hulk-avengers-infinty-war/|título=Vin Diesel: Groot & Hulk Must ‘Get Down’ in Avengers: Infinity War|apellido=Welch|nombre=Alex|publisher=Screen Rant|date=20 de enero de 2016|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6nfzXfaeq?url=http://screenrant.com/vin-diesel-groot-hulk-avengers-infinty-war/|fechaarchivo=21 de enero de 2017|deadurl=no|idioma=inglés}}</ref>
+
+* [[Bradley Cooper]] como [[Rocket Raccoon]]:
+: Un miembro de los Guardianes de la Galaxia que es un cazarrecompensas basado en un mapache genéticamente diseñado y un mercenario, y un experto en armas y tácticas de batalla. [[Sean Gunn]] una vez más sirvió como suplente de Rocket durante el rodaje, con su actuación y sus expresiones sirviendo como referencia de movimiento para el personaje.
+
+* [[Gwyneth Paltrow]] como [[Pepper Potts]]:
+: La prometida de Stark y la jefa de [[Stark Industries]]. Downey sintió que "Pepper sigue siendo el corazón de la historia [de Iron Man]", que no fue un punto focal en algunas de las películas anteriores con Stark. Downey continuó diciendo que "queríamos volver a esa realidad. No solo para ellos, sino que realmente veamos cómo eso puede agregar algo valioso para lo cual luchar".
+
+* [[Benicio del Toro]] como [[Coleccionista (cómic)|Taneleer Tivan / El Coleccionista]]: 
+: Un guardián obsesivo de la mayor colección de fauna interestelar, reliquias y especies de todo tipo en la galaxia. Es un ser casi inmortal de la raza de los Celestiales.
+
+* [[Josh Brolin]] como [[Thanos]]:
+: Un déspota y despiadado ser intergaláctico del planeta Titán que anhela recolectar todas las [[Gemas del Infinito]] para imponer su voluntad a toda la realidad, queriendo "reequilibrar el universo". El productor [[Kevin Feige]] agregó que Thanos cree que el universo se está sobrepoblando, lo que llevó a la destrucción de su planeta natal, Titán, y es algo que prometió que no volvería a suceder, y también dijo que "casi se podría llegar tan lejos como para decir que él es el personaje principal de la película". Brolin comparó a Thanos con "El [[Quasimodo]] de esta época" y la novela ''[[El perfume]]'', ya que Thanos nació deformado y es considerado un "monstruo" en Titán, mientras que Joe Russo hace referencia a la película ''[[El Padrino (película)|El Padrino]]'', lo que Brolin sintió que ayudó "a hacer más emocional todo el asunto". Thanos no usa armadura en la película, lo cual es un símbolo de su creciente poder a medida que recoge las Gemas del Infinito. Además de proporcionar la voz para el personaje, Brolin realizó la captura de movimiento en el set.<ref name="Brolin">{{cita web |url=http://www.thewrap.com/josh-brolin-joins-marvels-avengers-age-of-ultron-as-villain-thanos/|título=Josh Brolin Joins Marvel's 'Avengers' Sequels as Villain Thanos |apellido=Sneider |nombre=Jeff |obra=[[TheWrap]] |fecha=30 de mayo de 2014 |fechaacceso=26 de febrero de 2017 |urlarchivo=https://www.webcitation.org/6Pxs4ktf4?url=http://www.thewrap.com/josh-brolin-joins-marvels-avengers-age-of-ultron-as-villain-thanos/ |fechaarchivo=30 de mayo de 2014 |deadurl=no |idioma=inglés }}</ref><ref name="BrolinDec2014">{{cita web|url=http://www.comingsoon.net/movies/news/389995-ultimately-its-thanos-against-everyone-says-josh-brolin-of-avengers-infinity-war#/slide/1|título=‘It’s Thanos Against Everyone’ Says Brolin of Avengers: Infinity War|apellido=Lesnick|nombre=Silas|editorial=ComingSoon.net|fecha=7 de diciembre de 2014|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6UffWcDNb?url=http://www.comingsoon.net/movies/news/389995-ultimately-its-thanos-against-everyone-says-josh-brolin-of-avengers-infinity-war#/slide/1|fechaarchivo=8 de diciembre de 2014|deadurl=no|idioma=inglés}}</ref><ref name="BrolinMoCap">{{cita web|url=http://www.superherohype.com/news/364467-josh-brolin-on-playing-thanos-in-the-marvel-cinematic-universe-2#/slide/1|título=Josh Brolin on Playing Thanos in the Marvel Cinematic Universe|apellido=Busch|nombre=Jenna|editorial=[[Superhero Hype!]]|fecha=1 de febrero de 2016|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6f0LbdwlR?url=http://www.superherohype.com/news/364467-josh-brolin-on-playing-thanos-in-the-marvel-cinematic-universe-2#/slide/1|fechaarchivo=2 de febrero de 2016|deadurl=no|idioma=inglés}}</ref><ref name="BrolinJun2016">{{cita web|url=http://www.comicbookresources.com/article/josh-brolin-playing-thanos-makes-him-nervous-requires-imagination|título=Josh Brolin Says Playing Thanos Makes Him 'Nervous,' Requires 'Imagination'|apellido=Huver|nombre=Scott|editorial=[[Comic Book Resources]]|fecha=8 de junio de 2016|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6i9XuT5mp?url=http://www.comicbookresources.com/article/josh-brolin-playing-thanos-makes-him-nervous-requires-imagination|fechaarchivo=10 de junio de 2016|deadurl=no|idioma=inglés}}</ref>''
+
+* [[Chris Pratt]] como [[Star-Lord|Peter Quill / Star-Lord]]:
+: El líder mitad humano, mitad [[Celestial (cómic)|Celestial]] de los Guardianes de la Galaxia que fue secuestrado de la Tierra cuando era niño y criado por un grupo de ladrones y contrabandistas intergalácticos llamados los Devastadores. Pratt describió su papel en la película como "un cameo... puedes ser un poco más vibrante, un poco más irreverente, un poco más colorido si quieres que sea".<ref name="RussosApr2016" />
+
+Además, varios actores y actrices repiten sus papeles de películas anteriores: [[Letitia Wright]] como la hermana de [[Pantera Negra (Marvel Comics)|T'Challa]], [[Shuri (cómic)|Shuri]]; Winston Duke como [[Hombre Mono (Marvel Comics)|M'Baku]], el líder de la tribu montañesa de Wakanda, los Jabari; [[William Hurt]] como el Secretario de Estado [[Thunderbolt Ross|Thaddeus Ross]]; [[Florence Kasumba]] como Ayo, una miembro de las Dora Milaje; [[Kerry Condon]] como la voz de la inteligencia artificial de Stark, [[Viernes (cómic)|V.I.E.R.N.E.S.]]; [[Jacob Batalon]] como el amigo de Peter Parker, [[Hobgoblin (Ned Leeds)|Ned]]; [[Isabella Amara]], [[Tiffany Espensen]] y Ethan Dizon como Sally, Cindy y Tiny, respectivamente, compañeros de clase de Parker. [[Samuel L. Jackson]] y [[Cobie Smulders]] también repiten sus roles como [[Nick Fury]] y [[Maria Hill]], el exdirector y la ex subdirectora de S.H.I.E.L.D., respectivamente, durante la [[escena post-créditos]].
+
+Los esbirros de Thanos, conocidos en los cómics como [[Orden Oscura|Black Order]], aparecen como los "Hijos de Thanos": Terry Notary como [[Black Dwarf (cómic)|Cull Obsidian]], Tom Vaughan-Lawlor como [[Ebony Maw]], [[Carrie Coon]] como [[Proxima Midnight]] y Michael James Shaw como [[Corvus Glaive]]. Los cuatro actores realizaron captura de movimiento para sus personajes, además de proporcionarles sus voces, con la doble de riesgo [[Monique Ganderton]] sirviendo para Proxima Midnight en el set. [[Ross Marquand]] interpreta a [[Cráneo Rojo|Johann Schmidt / Red Skull]], el guardián de la Gema del Alma y el excomandante de [[Hydra (cómic)|Hydra]] durante la Segunda Guerra Mundial. El actor reemplaza así a [[Hugo Weaving]], quien interpretó al personaje en ''[[Capitán América: el primer vengador]]''. El cocreador de los Vengadores, [[Stan Lee]], tiene un cameo como el conductor del autobús escolar de Parker, mientras que el guionista [[Stephen McFeely]] también hace un cameo como el asistente de Ross. [[David Cross]] fue invitado a hacer un cameo como Tobias Fünke, su personaje de la comedia ''[[Arrested Development (serie de televisión)|Arrested Development]]'', en la cual los hermanos Russo habían trabajado anteriormente; esto fue impedido debido a un conflicto de tiempos, pero Fünke todavía aparece en la película como una muestra de la colección del Coleccionista, interpretado por un extra sin acreditar.
+
+== Doblaje ==
+{| class="wikitable"
+!Personaje
+!Actor original (Estados Unidos) {{Bandera|Estados Unidos}}
+!Actor de doblaje español (España) {{Bandera|España}}
+!Actor de doblaje mexicano (México) {{Bandera|México}}
+|-
+|[[Iron Man|Tony Stark / Iron Man]]
+|[[Robert Downey Jr]].
+|[[Juan Antonio Bernal]]
+|[[Idzi Dutkiewicz]]
+|-
+|[[Capitán América|Steve Rogers / Captain America]]
+|[[Chris Evans (actor)|Chris Evans]]
+|[[Raúl Llorens]]
+|[[José Antonio Macías]]
+|-
+|[[Thor (cómic)|Thor]]
+|[[Chris Hemsworth]]
+|[[Iván Labanda]]
+|[[Andrés Gutierrez]]
+|-
+|[[Hulk|Bruce Banner / Hulk]]
+|[[Mark Ruffalo]]
+|[[Xavier Fernández]]
+|[[Mario Castañeda]]
+|-
+|[[Viuda Negra (cómic)|Natasha Romanoff / Black Widow]]
+|[[Scarlett Johansson]]
+|[[Joël Mulachs]]
+|[[Rosalba Sotelo]]
+|-
+|[[Thanos]]
+|[[Josh Brolin]]
+|[[José García Insúa]]
+|[[Juan Carlos Tinoco]]
+|-
+|[[Doctor Strange|Dr. Stephen Strange]]
+|[[Benedict Cumberbatch]]
+|[[Iván Muelas]]
+|[[Beto Castillo]]
+|-
+|[[Spider-Man|Peter Parker/ Spider-Man]] / [[Araña de Hierro|Iron Spider]]
+|[[Tom Holland]]
+|[[Mario García (actor)|Mario García]]
+|[[Alexis Ortega]]
+|-
+|[[Pantera Negra (Marvel Comics)|T'Challa / Black Panther]]
+|[[Chadwick Boseman]]
+|[[Miguel Ángel Garzón]]
+|[[Manuel Campuzano]]
+|-
+|[[Star-Lord|Peter Quill / Star-Lord]]
+|[[Chris Pratt]]
+|[[Guillermo Romero]]
+|[[Carlo Vasquez]]
+|-
+|[[Visión (cómic)|Visión]]
+|[[Paul Bettany]]
+|[[Víctor Iturrioz]]
+|[[Milton Wolch]]
+|-
+|[[Gamora]]
+|[[Zoe Saldana|Zoe Saldaña]]
+|[[Olga Velasco]]
+|[[Carla Medina]]
+|-
+|[[Máquina de Guerra|James "Rhodey" Rhodes / Máquina de Guerra]]
+|[[Don Cheadle]]
+|[[Rafael Calvo (actor)|Rafael Calvo]]
+|[[Oscar Flores (actor)|Oscar Flores]]
+|-
+|[[Bruja Escarlata|Wanda Maximoff / Scarlet Witch]]
+|[[Elizabeth Olsen]]
+|[[Cristina Yuste]]
+|[[Irina Indigo]]
+|-
+|[[Falcon (cómic)|Sam Wilson / Falcon]]
+|[[Anthony Mackie]]
+|[[José Luis Medavilla (actor de voz)|José Luis Medavilla]]
+|[[Eduardo Ramírez]]
+|-
+|[[Bucky Barnes|Bucky Barnes / Winter Soldier]]
+|[[Sebastian Stan]]
+|[[David Jenner]]
+|[[Irwin Dayaan]]
+|-
+|[[Rocket Raccoon|Rocket]]
+|[[Bradley Cooper]]
+|[[Juan Logan Jr.|Juan Logan Jr]]
+|[[Sergio Zurita]]
+|-
+|[[Ebony Maw]]
+|[[Tom Vaughan-Lawlor]]
+|[[Pep Papell]]
+|[[Eduardo Garza]]
+|-
+|[[Drax el Destructor|Drax]]
+|[[Dave Bautista]]
+|[[Pedro Tena]]
+|[[Dan Osorio]]
+|-
+|[[Wong (cómic)|Wong]]
+|[[Benedict Wong]]
+|[[Santi Lorenz]]
+|[[Víctor Manuel Espinoza]]
+|-
+|[[Mantis (cómic)|Mantis]]
+|[[Pom Klementieff]]
+|[[Laura Pastor]]
+|[[Erika Ugalde]]
+|-
+|[[Nebula (cómic)|Nebula]]
+|[[Karen Gillan]]
+|[[Cecilia Santiago]]
+|[[María Sandoval]]
+|-
+|[[Proxima Midnight]]
+|[[Carrie Coon]]
+|[[Gemma Ibañes]]
+|[[Carola Vazquez]]
+|-
+|[[Groot]]
+|[[Vin Diesel]]
+|[[Miguel Ángel Muro]]
+|[[Óscar Bonfiglio (actor)|Óscar Bonfiglio]]
+|-
+|[[Corvus Glaive]]
+|[[Michael James Shaw]]
+|[[Mark Ullod]]
+|[[Mauricio Bennetts]]
+|-
+|[[Shuri (cómic)|Shuri]]
+|[[Letitia Wright]]
+|[[Vera Bosch]]
+|[[Leyla Rangel]]
+|-
+|[[Eitri (cómic)|Eitri]]
+|[[Peter Dinklage]]
+|[[Carlos del Pino]]
+|[[Santos Alberto]]
+|-
+|[[Cráneo Rojo|Johann Schimdt / Red Skull]]
+|[[Ross Marquand]]
+|[[Abel Folk]]
+|[[Humberto Solórzano]]
+|-
+|[[Hombre Mono (cómic)|M'Baku]]
+|[[Winston Duke]]
+|[[Óscar Castellanos]]
+|[[Mau Pérez]]
+|-
+|[[Loki (Marvel Comics)|Loki]]
+|[[Tom Hiddleston]]
+|[[David Brau]]
+|[[Pepe Vilchis]]
+|-
+|[[Pepper Potts|Virginia "Pepper" Potts]]
+|[[Gwyneth Paltrow]]
+|[[Alicia Laorden]]
+|[[Yozmit Ramírez]]
+|-
+|[[Viernes]]
+|[[Kerry Condon]]
+|[[Danai Querol]]
+|[[Cony Madera]]
+|-
+|[[Thunderbolt Ross|Thunderbolt "Thadddeus" Ross]]
+|[[William Hurt]]
+|[[Salvador Vidal]]
+|[[Óscar Gómez]]
+|-
+|[[Hobgoblin|Ned Leeds]]
+|[[Jacob Batalon]]
+|[[Sergio Olmo]]
+|[[Ricardo Bautista]]
+|-
+|[[Coleccionista (cómic)|Taneleer Tivan / El Coleccionista]]
+|[[Benicio del Toro]]
+|[[Pablo Adán]]
+|[[Jaime Lopez]]
+|-
+|[[Heimdall (cómic)|Heimdall]]
+|[[Idris Elba]]
+|[[Juan Carlos Gustems]]
+|[[Mario Arvizu]]
+|-
+|[[Nick Fury|Crnel. Nick Fury]]
+|[[Samuel L. Jackson]]
+|[[Miguel Ángel Jenner]]
+|[[Blas García]]
+|-
+|[[Maria Hill]]
+|[[Cobie Smulders]]
+|[[Cristina Mauri]]
+|[[Marisol Romero]]
+|-
+|Conductor de bus
+|[[Stan Lee]]
+|[[Salvador Moreno (actor)|Salvador Moreno]]
+|[[Jesse Conde]]
+|-
+
+En diciembre del 2017, la compañía de venta de entradas Fandango indicó que ''Avengers: Infinity War'' era la película más esperada del 2018. En marzo de 2018, las proyecciones iniciales de taquilla apuntaron a que la película recaudaría entre $200 a 235 millones de dólares en su fin de semana de apertura en los Estados Unidos y Canadá y entre $490 y 590 millones para el total bruto nacional. Fandango informó que ''Infinity War'' logró la preventa más grande en 24 horas para una película de superhéroes en solo seis horas, superando el récord de ''[[Black Panther (película)|Black Panther]]''. Atom Tickets también informó que ''Infinity War'' vendió más entradas en su primer día de preventa que ''Black Panther'' vendió en su primer mes. En 72 horas, la película se convirtió en la mayor cantidad de preventas para cualquier película de superhéroes en los Teatros AMC. AMC señaló que la venta anticipada de entradas de ''Infinity War'' eran un 257.6% superiores a las de ''Black Panther'', un 751.5% por encima de ''[[Capitán América: Civil War]]'' y un 1106.5% por delante de ''[[Avengers: Age of Ultron]]'' durante el mismo período de tiempo.<ref>{{Cita web|url=http://www.tomatazos.com/noticias/325665/Avengers-Infinity-War-supera-preventa-de-boletos-de-Era-de-Ultron-en-1000-por-ciento|título=Avengers: Infinity War supera preventa de boletos de Era de Ultrón en 1000 por ciento}}</ref>
+
+{|
+
+== Producción ==
+En octubre de 2014, Marvel anunció una secuela de dos partes para ''[[Avengers: Age of Ultron]]'', titulada ''Avengers: Infinity War''. Esta película se programó para estrenarse el 27 de abril de 2018 y su secuela un año después, el 3 de mayo de 2019.<ref name="BrolinInfinity">{{cita web|url=http://screenrant.com/avengers-3-4-infinity-war-release-dates/|título=‘Avengers: Infinity War’ Announced For 2018-19 in Two Parts|apellido=Keyes|nombre=Rob|obra=Screen Rant|fecha=28 de octubre de 2014|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6TnhX5PsX?url=http://screenrant.com/avengers-3-4-infinity-war-release-dates/|fechaarchivo=3 de noviembre de 2014|deadurl=no|idioma=inglés}}</ref><ref name="Oct2014Event">{{cita web|url=http://www.newsarama.com/22573-marvel-announces-black-panther-captain-marvel-inhumans-avengers-infinity-war-films-cap-thor-3-subtitles.html|título=Marvel Announces Black Panther, Captain Marvel, Inhumans, Avengers: Infinity War Films, Cap & Thor 3 Subtitles|apellido=Siegel|nombre=Lucas|editorial=[[Newsarama]]|fecha=28 de octubre de 2014|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6TfU8mLIr?url=http://www.newsarama.com/22573-marvel-announces-black-panther-captain-marvel-inhumans-avengers-infinity-war-films-cap-thor-3-subtitles.html|fechaarchivo=28 de octubre de 2014|deadurl=no|idioma=inglés}}</ref><ref name="InfinityWar">{{cita web|url=http://marvel.com/news/movies/23546/marvels_the_avengers_head_into_an_infinity_war|título=Marvel's The Avengers Head Into an Infinity War|apellido=Strom|nombre=Marc|editorial=[[Marvel Comics|Marvel.com]]|fecha=28 de octubre de 2014|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6TforkqPl?url=http://marvel.com/news/movies/23546/marvels_the_avengers_head_into_an_infinity_war|fechaarchivo=29 de octubre de 2014|deadurl=no|idioma=inglés}}</ref> En abril de 2015, Marvel informó que los hermanos [[Hermanos Russo|Anthony y Joe Russo]] dirigían ambas películas.<ref name="Russos2">{{cita web|url=http://marvel.com/news/movies/24399/joe_anthony_russo_to_direct_2-part_marvels_avengers_infinity_war_event|título=Joe & Anthony Russo to Direct 2-Part Marvel's 'Avengers: Infinity War' Event|apellido=Strom|nombre=Marc|editorial=[[Marvel Comics|Marvel.com]]|fecha=7 de abril de 2015|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6XcFsLKrg?url=http://marvel.com/news/movies/24399/joe_anthony_russo_to_direct_2-part_marvels_avengers_infinity_war_event|fechaarchivo=7 de abril de 2015|deadurl=no|idioma=inglés}}</ref><ref name="Russos">{{cita web|url=http://www.hollywoodreporter.com/heat-vision/russo-brothers-direct-avengers-infinity-783685|título=Russo Brothers to Direct 'Avengers: Infinity War' Parts 1 and 2|apellido=Kit|nombre=Borys|apellido2=Siegemund-Broka|nombre2=Austin|obra=[[The Hollywood Reporter]]|fecha=23 de marzo de 2015|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6XFh6l7ys?url=http://www.hollywoodreporter.com/heat-vision/russo-brothers-direct-avengers-infinity-783685|fechaarchivo=23 de marzo de 2015|deadurl=no|idioma=inglés}}</ref><ref name="FeigeApril2015">{{cita web|url=http://www.mtv.com/news/2130574/kevin-feige-marvel-movie-future/|título=Marvel’s Movie Future: Here’s Everything You Need To Know Through… Phase 4?|apellido=Zalben|nombre=Alex|apellido2=Horowitz|nombre2=Josh|editorial=[[MTV]]|fecha=12 de abril de 2015|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6XkNKo8yd?url=http://www.mtv.com/news/2130574/kevin-feige-marvel-movie-future/|fechaarchivo=13 de abril de 2015|deadurl=no|idioma=inglés}}</ref> En mayo de 2015, [[Christopher Markus]] y [[Stephen McFeely]] firmaron para escribir los guiones para ambas películas.<ref name="MarkusMcFeely">{{cita web|url=http://marvel.com/news/movies/24589/christopher_markus_stephen_mcfeely_to_write_marvels_2-part_avengers_infinity_war_event|título=Christopher Markus & Stephen McFeely to Write Marvel's 2-Part 'Avengers: Infinity War' Event|apellido=Strom|nombre=Mark|editorial=[[Marvel Comics|Marvel.com]]|fecha=7 de mayo de 2015|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6YMOLHv92?url=http://marvel.com/news/movies/24589/christopher_markus_stephen_mcfeely_to_write_marvels_2-part_avengers_infinity_war_event|fechaarchivo=8 de mayo de 2015|deadurl=no|idioma=inglés}}</ref> Un año más tarde, los Russo revelaron que estarían retitulando las dos películas, para eliminar aún más la idea errónea de que las cintas eran una gran película dividida en dos, con Joe diciendo: "Nuestra intención es simplemente cambiar [los títulos]".<ref name="Retitled">{{cita web|url=http://uproxx.com/movies/russo-brothers-confirm-avengers-infinity-war-title-change/|título=Russo Brothers Confirm: ‘Avengers: Infinity War 1 And 2’ Will Be Retitled|apellido=Ryan|nombre=Mike|publisher=Uproxx|fecha=4 de mayo de 2016|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6hGB4kPmk?url=http://uproxx.com/movies/russo-brothers-confirm-avengers-infinity-war-title-change/|fechaarchivo=4 de mayo de 2016|deadurl=no|idioma=inglés}}</ref> En julio de 2016, Marvel reveló que el título de la película sería acortado simplemente a ''Avengers: Infinity War''.<ref name="Retitled2">{{cita web|url=http://www.thewrap.com/marvel-surprise-avengers-infinity-war-wont-be-split-into-2-movies/|título=Marvel Surprise: ‘Avengers: Infinity War’ Won’t Be Split Into 2 Movies|apellido=Donnelly|nombre=Matt|editorial=[[TheWrap]]|fecha=29 de julio de 2016|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6jNNaNj1k?url=http://www.thewrap.com/marvel-surprise-avengers-infinity-war-wont-be-split-into-2-movies/|fechaarchivo=30 de julio de 2016|deadurl=no|idioma=inglés}}</ref> En octubre de 2016, Feige señaló que la filmación comenzaría en enero de 2017 y duraría hasta octubre/noviembre.<ref name="FilmingLength">{{cita web|url=http://collider.com/kevin-feige-avengers-infinity-war-spider-man-mcu-interview/#marvel-2019-2020|título=Kevin Feige on ‘Avengers: Infinity War’, Spider-Man’s Future, 2019 & 2020 MCU Movies, and ‘Doctor Strange’|apellido=Weintraub|nombre=Steve|obra=[[Collider.com]]|fecha=27 de octubre de 2016|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6laW9rYpK?url=http://collider.com/kevin-feige-avengers-infinity-war-spider-man-mcu-interview/#marvel-2019-2020|fechaarchivo=28 de octubre de 2016|deadurl=no|idioma=inglés}}</ref>
+
+Los hermanos Russo afirmaron en una entrevista que tanto Infinity War como su secuela, [[Avengers: Endgame]],fueron filmadas con cámaras [[IMAX]] en su totalidad.
+
+=== Rodaje ===
+La [[fotografía principal]] de la cinta comenzó el 23 de enero de 2017,<ref name="FilmingStart">{{cita web|url=http://comicbook.com/marvel/2017/01/22/avengers-infinity-war-sequel-begin-filming/|título=Avengers: Infinity War And Sequel Set To Begin Filming Monday|apellido=Schmidt|nombre=Joseph|obra=Comicbook.com|fecha=22 de enero de 2017|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6nip7C0SZ?url=http://comicbook.com/marvel/2017/01/22/avengers-infinity-war-sequel-begin-filming/|fechaarchivo=23 de enero de 2017|deadurl=no|idioma=inglés}}</ref> bajo el título de trabajo ''Mary Lou'',<ref name="WorkingTitle">{{cita web|url=http://comicbook.com/marvel/2016/10/26/avengers-infinity-war-working-title-revealed/|título=Avengers: Infinity War Working Title Revealed|apellido=Lovett|nombre=Jamie|sitioweb=ComicBook.com|fecha=26 de octubre de 2016|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6laVnATl6?url=http://comicbook.com/marvel/2016/10/26/avengers-infinity-war-working-title-revealed/|fechaarchivo=28 de octubre de 2016|deadurl=no|idioma=inglés}}</ref> en los [[Pinewood Studios#Pinewood Atlanta|Pinewood Atlanta Studios]], ubicados en el [[condado de Fayette]], [[Georgia (estado)|Georgia]],<ref name="Pinewood">{{cita web|url=http://www.comingsoon.net/movies/news/775063-doctor-strange-imax-preview#/slide/1|título=Doctor Strange IMAX Preview Teases a Marvel Cinematic Multiverse|apellido=Lesnick|nombre=Silas|editorial=[[ComingSoon.net]]|fecha=11 de octubre de 2016|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6lB6O0ul3?url=http://www.comingsoon.net/movies/news/775063-doctor-strange-imax-preview#/slide/1|fechaarchivo=11 de octubre de 2016|deadurl=no|idioma=inglés}}</ref> con Trent Opaloch como el [[fotógrafo|director de fotografía]].<ref name="Atlanta">{{cita web|url=http://collider.com/captain-america-civil-war-avengers-3-infinity-war-updates-russo-brothers/|título=‘Captain America: Civil War’ Directors on Landing Spider-Man, ‘Infinity War’ Shooting Schedule|apellido=Cabin|nombre=Chris|obra=[[Collider.com]]|fecha=14 de enero de 2016|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6eXBPJg81?url=http://collider.com/captain-america-civil-war-avengers-3-infinity-war-updates-russo-brothers/?utm_campaign=collidersocial|fechaarchivo=14 de enero de 2016|deadurl=no|idioma=inglés}}</ref> La filmación se llevó a cabo además en [[Edimburgo]], [[Glasgow]] y las [[Tierras Altas de Escocia]] a partir de febrero de 2018.<ref name="Scotland">{{cita web|url=http://www.dailyrecord.co.uk/news/scottish-news/hollywood-heads-scotland-marvel-gets-9582766|título=New £400m Marvel blockbuster Avengers: Infinity War to be shot in Glasgow and Edinburgh|obra=[[Daily Record (Scotland)|Daily Record]]|apellido=Donohoe|nombre=Graeme|fecha=8 de enero de 2017|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6nMb9cWIK?url=http://www.dailyrecord.co.uk/news/scottish-news/hollywood-heads-scotland-marvel-gets-9582766|fechaarchivo=8 de enero de 2017|deadurl=no|idioma=inglés}}</ref> El rodaje finalizó el 15 de julio de 2017,<ref>https://www.instagram.com/p/BWiJtphgBXz/</ref> cuando los directores [[Hermanos Russo|Joe y Anthony Russo]] lo anunciaron a través de su [https://www.instagram.com/therussobrothers/ cuenta de Instagram].
+
+== Música ==
+En junio de 2016 se reveló que [[Alan Silvestri]], quien compuso la banda sonora para ''[[The Avengers (película de 2012)|The Avengers]]'', regresaría para realizar la música de ''Avengers: Infinity War'' y su secuela.<ref name="Silvestri">{{cita web|url=http://comicbook.com/2016/06/07/avengers-composer-alan-silvestri-to-return-for-infinity-war/|título=Avengers Composer Alan Silvestri To Return For Infinity War|apellido=Burlingame|nombre=Russ|obra=Comicbook.com|fecha=6 de junio de 2016|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6i4umD5qd?url=http://comicbook.com/2016/06/07/avengers-composer-alan-silvestri-to-return-for-infinity-war/|fechaarchivo=7 de junio de 2016|deadurl=no|idioma=inglés}}</ref>
+
+== Estreno ==
+''Avengers: Infinity War'' tuvo su estreno mundial el 23 de abril de 2018 en [[Los Ángeles]], [[California]], contando con todo el elenco.<ref>http://www.dx.com.py/easter-eggs-secretos-del-trailer-de-avengers-inifinity-war/</ref> En el resto de los [[Estados Unidos]], se estrenó el 27 de abril de 2018. Previamente, estaba programada para estrenarse el 4 de mayo de 2018.
+
+=== Mercadotecnia ===
+El 29 de noviembre de 2017, en el programa televisivo ''[[Good Morning America]]'', se estrenó el primer tráiler oficial. Con más de 230 millones de reproducciones se convirtió en el tráiler más visto en sus primeras 24 horas, superando a ''[[It (película de 2017)|It]]''.<ref name="‘Avengers: Infinity War’ Trailer Sets Record For Most Views In 24 Hours">{{cita web|url=https://heroichollywood.com/avengers-infinity-war-trailer-becomes-watched-trailer-24-hours/|título=‘Avengers: Infinity War’ Trailer Sets Record For Most Views In 24 Hours|fecha=30 de noviembre de 2017|fechaacceso=30 de noviembre de 2017}}</ref> El 4 de febrero del 2018 en el medio tiempo del [[Super Bowl LII]]  se estrenó un spot de 30 segundos de duración. El 16 de marzo de 2018 se estrenó el segundo y último tráiler oficial de la película,<ref>{{cita noticia|título=Marvel lanza el segundo tráiler oficial de "Avengers: Infinity War"|url=https://www.elnuevodia.com/entretenimiento/cine/nota/marvellanzaelsegundotraileroficialdeavengersinfinitywar-2407093/|fechaacceso=17 de marzo de 2018|agencia=[[El Nuevo Día (Puerto Rico)|El Nuevo Día]]|fecha=16 de marzo de 2018}}</ref> que contó con aproximadamente 179 millones de visualizaciones en sus primeras 24 horas.
+
+=== Formato casero ===
+''Avengers: Infinity War'' fue lanzada en la mayoría de países en formato digital el 31 de julio de 2018 y en formato físico el 14 de agosto de 2018.<ref name="DVD">{{cite web|url=https://blogdesuperheroes.es/cine-trailer-del-lanzamiento-del-blu-ray-de-vengadores-infinity-war|title=Trailer del lanzamiento del Blu-Ray de Vengadores: Infinity War y fecha para España|publisher=[[Blog de Superheroes]]|accessdate=10 de julio de 2018}}</ref> En [[España]] salió a la venta el 17 de agosto en formato digital y el 29 en formato físico.<ref name="DVD" />
+
+== Recepción ==
+
+=== Taquilla ===
+En diciembre del 2017, la compañía de venta de entradas Fandango indicó que ''Avengers: Infinity War'' era la película más esperada del 2018. En marzo de 2018, las proyecciones iniciales de taquilla apuntaron a que la película recaudaría entre $200 a 235 millones de dólares en su fin de semana de apertura en los Estados Unidos y Canadá y entre $490 y 590 millones para el total bruto nacional. Fandango informó que ''Infinity War'' logró la preventa más grande en 24 horas para una película de superhéroes en solo seis horas, superando el récord de ''[[Black Panther (película)|Black Panther]]''. Atom Tickets también informó que ''Infinity War'' vendió más boletos en su primer día de preventa que ''Black Panther'' vendió en su primer mes. En 72 horas, la película se convirtió en la mayor cantidad de preventas para cualquier película de superhéroes en los Teatros AMC. AMC señaló que las ventas avanzadas de boletos de ''Infinity War'' eran un 257.6% superiores a las de ''Black Panther'', un 751.5% por encima de ''[[Capitán América: Civil War]]'' y un 1106.5% por delante de ''[[Avengers: Age of Ultron]]'' durante el mismo período de tiempo.<ref>{{Cita web|url=http://www.tomatazos.com/noticias/325665/Avengers-Infinity-War-supera-preventa-de-boletos-de-Era-de-Ultron-en-1000-por-ciento|título=Avengers: Infinity War supera preventa de boletos de Era de Ultrón en 1000 por ciento}}</ref>
+
+''Avengers: Infinity War'' se convirtió en el mejor estreno de la historia al superar a ''[[Star Wars: Episodio VII - El despertar de la Fuerza|Star Wars: The Force Awakens]]'' en taquilla.
+
+También obtuvo el récord de la película en llegar antes a los mil millones de dólares, alcanzando esta cifra en 11 días.
+
+=== Crítica ===
+''Avengers: Infinity War'' ha recibido reseñas sumamente positivas de parte de la crítica, así como de la audiencia y los fanes. En el sitio web especializado [[Rotten Tomatoes]], la película posee una aprobación de 84%, basada en 366 reseñas, con una calificación de 7.4/10, y con un consenso que dice "''Avengers: Infinity War'' hace malabares con una vertiginosa variedad de héroes del UCM en la lucha contra su amenaza más grave, y el resultado es una superproducción apasionante y emocionante que (en su mayoría) se da cuenta de sus gigantescas ambiciones". De parte de la audiencia tiene una aprobación de 91%, basada en 48 547 votos, con una calificación de 4.5/5.<ref>{{cite web|url=https://www.rottentomatoes.com/m/avengers_infinity_war/|title=Avengers: Infinity War (2018)|publisher=[[Rotten Tomatoes]]|accessdate=3 de octubre de 2018}}</ref>
+
+[[Metacritic]] le dio a la película una puntuación de 68 de 100, basada en 53 reseñas, indicando "reseñas generalmente favorables".<ref>{{cite web|url=http://www.metacritic.com/movie/avengers-infinity-war|title=Avengers: Infinity War|publisher=Metacritic|accessdate=26 de abril de 2018}}</ref> Las audiencias encuestadas por [[CinemaScore]] le otorgaron a la película una "A" en una escala de A+ a F, mientras que en el sitio [[Internet Movie Database|IMDb]] los usuarios le dieron una puntuación de 8.6/10, sobre la base de 494 792 votos.<ref>{{cite web|url=https://www.imdb.com/title/tt4154756/|title=Avengers: Infinity War|publisher=IMDB|accessdate=6 de junio de 2018}}</ref> En [[FilmAffinity]] tiene una calificación de 7.6/10, basada en 24 248 votos.<ref>{{Obra citada|título=Avengers: Infinity War (2018)|idioma=es|título-trad=|apellidos=|nombre=|enlaceautor=|url=https://www.filmaffinity.com/es/film827414.html|fechaacceso=4 de octubre de 2018|sined=|en=|editor=|nombre-editor=|enlace-editor=|cita=}}</ref>
+
+== Premios y nominaciones ==
+{| class="wikitable sortable" style="width: 99%;"
+|-
+! scope="col"| Año
+! scope="col"| Premio
+! scope="col"| Categoría
+! scope="col"| Candidato(s)
+! scope="col"| Resultado
+! scope="col" class="unsortable"| {{Abbr|Ref(s)|Reference(s)}}
+|-
+| rowspan="22" | 2018
+| rowspan="3"| Golden Trailer Awards
+| Mejor acción
+|''Avengers: Infinity War''
+| {{celda|nominada}}
+| style="text-align:center;" rowspan="3"|<ref name="GTA18Noms">{{cite web|url=http://deadline.com/2018/05/golden-trailer-awards-2018-nominations-list-1202386445/|title=Golden Trailer Award Nominations: 'The Shape Of Water', 'Hitman's Bodyguard' Top List|last=Hipes|first=Patrick|work=[[Deadline Hollywood]]|date=9 de mayo de 2018|accessdate=2 de junio de 2018|archiveurl=https://www.webcitation.org/6zsZUM7so?url=https://deadline.com/2018/05/golden-trailer-awards-2018-nominations-list-1202386445/|archivedate=2 de junio de 2018|deadurl=no}}</ref>
+|-
+| Mejor teaser
+|''Avengers: Infinity War''
+| {{celda|nominada}}
+|-
+| Mejor banda sonora
+|''Avengers: Infinity War''
+| {{celda|nominada}}
+|-
+| rowspan="3"|[[MTV Movie & TV Awards]]
+|[[Anexo:MTV Movie Award por mejor película|Mejor película]]
+| ''Avengers: Infinity War''
+| {{celda|nominada}}
+| style="text-align:center;" rowspan="3"|<ref name="MTVMovieAwards">{{cite web | last=Bell | first=Crystal | url=https://www.mtv.com/news/3075855/2018-mtv-movie-tv-awards-nominations-full-list/ | title=Premios MTV de cine y televisión 2018 Nominaciones: Ver la lista completa | idioma=inglés | publisher=[[MTV]] | date= 3 de mayo de 2018 | accessdate= 3 de mayo de 2018 |archiveurl=https://www.webcitation.org/query?url=http%3A%2F%2Fwww.mtv.com%2Fnews%2F3075855%2F2018-mtv-movie-tv-awards-nominations-full-list%2F&date=2018-05-03|archivedate=3 de mayo de 2018|deadurl=no}}</ref>
+|-
+|[[Anexo:MTV Movie al mejor villano|Mejor villano]]
+| [[Josh Brolin]]
+| {{celda|nominado}}
+|-
+| Mejor pelea
+| [[Scarlett Johansson]], [[Danai Gurira]], [[Elizabeth Olsen]] vs. [[Carrie Coon]]
+| {{celda|nominadas}}
+|-
+| rowspan="10"|[[Anexo:Teen Choice Awards 2018|Teen Choice Awards]]
+| Mejor película de acción
+| ''Avengers: Infinity War''
+| {{celda|ganadora}}
+| style="text-align:center;" rowspan="10"|<ref>{{cite web|url=https://www.hollywoodreporter.com/lists/teen-choice-awards-2018-full-list-winners-1134169|title=Teen Choice Awards: Winners List|work=[[The Hollywood Reporter]]|date=12 de agosto de 2018|accessdate=12 de agosto de 2018|deadurl=no|archiveurl=https://web.archive.org/web/20180813030438/https://www.hollywoodreporter.com/lists/teen-choice-awards-2018-full-list-winners-1134169|archivedate=13 de agosto de 2018}}</ref>
+|-
+| rowspan="3"| Mejor actor de acción
+|[[Chris Evans]]
+| {{celda|nominado}}
+|-
+| [[Robert Downey Jr.]]
+| {{celda|ganador}}
+|-
+| [[Tom Holland]]
+| {{celda|nominado}}
+|-
+| rowspan="3"|Mejor actriz de acción
+| [[Elizabeth Olsen]]
+| {{celda|nominada}}
+|-
+| [[Scarlett Johansson]]
+| {{celda|ganadora}}
+|-
+|[[Zoe Saldana|Zoe Saldaña]]
+| {{celda|nominada}}
+|-
+| Mejor villano
+| [[Josh Brolin]]
+| {{celda|nominado}}
+|-
+| Mejor beso
+| [[Chris Pratt]] y [[Zoe Saldaña]]
+| {{celda|nominados}}
+|-
+| Mejor berrinche
+| [[Mark Ruffalo]]
+| {{celda|nominado}}
+|-
+|Premios BAFTA
+|Mejores efectos especiales visuales
+|''Avengers: Infinity War''
+|{{celda|Nominada}}
+|
+|-
+| rowspan="2" |Critics Choice Awards
+|Mejor film de acción
+|''Avengers: Infinity War''
+|{{celda|Nominada}}
+| rowspan="2" |
+|-
+|Mejors efectos visuales
+|''Avengers: Infinity War''
+|{{celda|Nominada}}
+|-
+|Premios Annie
+|Mejor animación de personajes en película no animada
+|''Avengers: Infinity War''
+|{{celda|Nominada}}
+|
+|-
+|Satellite Awards
+|Mejores efectos visuales
+|''Avengers: Infinity War''
+|{{celda|Nominada}}
+|
+|-
+|Sindicato de Actores (SAG)
+|Mejores especialistas de acción
+|''Avengers: Infinity War''
+|{{celda|Nominada}}
+|
+|-
+| rowspan="6" |2018
+| rowspan="6" |People's Choice Awards
+|La película del 2018
+|''Avengers: Infinity War''
+|{{celda|Ganadora}}
+| rowspan="6" |
+|-
+|La película de acción de 2018
+|''Avengers: Infinity War''
+|{{celda|Ganadora}}
+|-
+| rowspan="2" |La estrella de cine masculina de 2018
+|Robert Downey Jr.
+|{{celda|Nominado}}
+|-
+|Chris Hemsworth
+|{{celda|Nominado}}
+|-
+|La estrella de cine femenina de 2018
+|Scarlett Johansson
+|{{celda|Ganadora}}
+|-
+|La estrella de cine de acción de 2018
+|Chris Hemsworth
+|{{celda|Nominado}}
+|-
+| rowspan="16"| 2019
+| rowspan="3"|[[Premios Óscar]]
+| Mejores Efectos Especiales
+|''Avengers: Infinity War''
+| {{celda|nominada}}
+|-
+|}
+
+== Secuela ==
+Una secuela, titulada [[Avengers: Endgame]], se estrenó el 26 de abril de 2019, en esta cinta nos encontramos con varios personajes que no aparecieron en Avengers: Infinity War como [[Ojo de Halcón|Hawkeye]] ([[Jeremy Renner]])<ref>{{Cita web|url=https://www.ecartelera.com/noticias/vengadores-endgame-jeremy-renner-venga-hemsworth-arte-53523/|título='Vengadores: Endgame': Jeremy Renner se venga de Chris Hemsworth|fechaacceso=25 de abril de 2019|sitioweb=eCartelera|idioma=es}}</ref> o [[Ant-Man (Scott Lang)|Ant-Man]] ([[Paul Rudd]]). Los hermanos Russo fueron los directores, mientras Markus y McFeely estuvieron, una vez más, encargados del guion.
+
+== Referencias ==
+{{listaref|2}}
+
+<!-- <ref name="Oct2014EventQA">{{cita web|url=http://www.slashfilm.com/marvel-phase-3-kevin-feige/|título=Watch: All Of Your Marvel Phase 3 Questions Answered By Marvel Head Kevin Feige|apellido=Sciretta|nombre=Peter|editorial=[[/Film]]|fecha=28 de octubre de 2014|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6TiXTd7oh?url=http://www.slashfilm.com/marvel-phase-3-kevin-feige/|fechaarchivo=30 de octubre de 2014|deadurl=no|idioma=inglés}}</ref>
+
+<ref name="Renner">{{cita web|url=http://www.thedailybeast.com/articles/2014/09/29/jeremy-renner-talks-marriage-his-problems-with-the-media-and-the-future-of-hawk-eye.html|título=Jeremy Renner Opens Up About Marriage, His Problems with the Media, and the Future of Hawk-Eye|apellido=Stern|nombre=Marlow|obra=[[The Daily Beast]]|fecha=29 de septiembre de 2014|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6ZXZgcMiG?url=http://www.thedailybeast.com/articles/2014/09/29/jeremy-renner-talks-marriage-his-problems-with-the-media-and-the-future-of-hawk-eye.html|fechaarchivo=25 de junio de 2015|deadurl=no|idioma=inglés}}</ref>
+
+<ref name="RennerConfirmed">{{cita web|url=http://screenrant.com/jeremy-renner-michael-douglas-marvel-team-up/|título=Jeremy Renner & Michael Douglas Hint At Marvel Team-Up|apellido=Ricwulf|nombre=Daniel|editorial=Screen Rant|fecha=24 de octubre de 2015|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6lXNSx91Z?url=http://screenrant.com/jeremy-renner-michael-douglas-marvel-team-up/|fechaarchivo=26 de octubre de 2016|deadurl=no|idioma=inglés}}</ref>
+
+<ref name="Bautista">{{cita tweet|fecha=22 de enero de 2017|enlaceautor=Dave Bautista|usuario=DaveBautista|título=Welp!!! That makes 3 of us! And I start filming tomorrow! 😱 #MarvelShroudofSecrecy 😖|número =823294808655532036 |fechaacceso=26 de febrero de 2017|fechaarchivo=22 de enero de 2017 |urlarchivo=http://www.webcitation.org/6nibckobt |deadurl=no|idioma=inglés}}</ref>
+
+<ref name="Klementieff">{{cita web|url=http://ew.com/movies/2017/01/28/avengers-infinity-war-mantis/|título=Avengers: Infinity War adds Mantis from Guardians of the Galaxy 2|apellido=Romano|nombre=Nick|work=[[Entertainment Weekly]]|fecha=28 de enero de 2017|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6nrq1zUBu?url=http://ew.com/movies/2017/01/28/avengers-infinity-war-mantis/|fechaarchivo=29 de enero de 2017|deadurl=no|idioma=inglés}}</ref>
+
+<ref name="ThanosMainCharacter">{{cita web|url=http://collider.com/avengers-infinity-war-thanos-main-character/|título=Thanos Is the "Main Character" in ‘Avengers: Infinity War’ Says Kevin Feige|apellido=Goldberg|nombre=Matt|sitioweb=[[Collider.com]]|fecha=6 de febrero de 2017|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6o55ZF23a?url=http://collider.com/avengers-infinity-war-thanos-main-character/|fechaarchivo=6 de febrero de 2017|deadurl=no|idioma=inglés}}</ref>
+
+<ref name="Johansson">{{cita web|url=http://www.oscars.org/news/89thSecondSlatePresenters|título=Halle Berry, Jamie Dornan, Chris Evans, Gael García Bernal, Samuel L. Jackson, Scarlett Johansson, Dakota Johnson, Kate Mckinnon, Shirley Maclaine, Hailee Steinfeld Will Be Presenters on Oscars® Stage|editorial=[[Academy Awards]]|fecha=7 de febrero de 2017|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6o7Be0eZu?url=http://www.oscars.org/news/89thSecondSlatePresenters|fechaarchivo=8 de febrero de 2017|deadurl=no|idioma=inglés}}</ref>
+
+<ref name="del Toro">{{cita web|url=http://www.slashfilm.com/the-collector-confirmed-for-avengers-infinity-war/|título=The Collector Confirmed For ‘Avengers: Infinity War’|apellido=Sciretta|nombre=Peter|obra=[[/Film]]|fecha=7 de febrero de 2017|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6o84oTNrh?url=http://www.slashfilm.com/the-collector-confirmed-for-avengers-infinity-war/|fechaarchivo=8 de febrero de 2017|deadurl=no|idioma=inglés}}</ref>
+
+<ref name="Holland">{{cita web|url=http://www.hollywoodreporter.com/heat-vision/avengers-infinity-war-featurette-shows-first-footage-set-974673|título='Avengers: Infinity War' Featurette Shows Off First Footage From Set|apellido=Couch|nombre=Aaron|obra=[[The Hollywood Reporter]]|fecha=10 de febrero de 2017|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6oCaBQLT8?url=http://www.hollywoodreporter.com/heat-vision/avengers-infinity-war-featurette-shows-first-footage-set-974673|fechaarchivo=11 de febrero de 2017|deadurl=no|idioma=inglés}}</ref>
+
+<ref name="SeanGunn">{{cita web|url=http://www.comingsoon.net/movies/news/806591-avengers-infinity-war-set|título=Sean Gunn Shares from the Avengers: Infinity War Set|apellido=Lesnick|nombre=Sean|obra=[[ComingSoon.net]]|fecha=24 de enero de 2017|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6nlrnWWs0?url=http://www.comingsoon.net/movies/news/806591-avengers-infinity-war-set|fechaarchivo=25 de enero de 2017|deadurl=no}}</ref>
+
+<ref name="JGunnSGunnClarify">{{cita tweet|apellido=Gunn|nombre=James|usuario=jamesgunn|número=830525281240772613|título=He’s not a stand-in. He’s motion reference. We use Sean’s acting and expressions for Rocket. And yes he’s doing that.|fecha=12 de febrero de 2017|fechaacceso=26 de febrero de 2017|urlarchivo=http://www.webcitation.org/6oE7d4p6s|fechaarchivo=12 de febrero de 2017|deadurl=no|idioma=inglés}}</ref>
+
+<ref name="McFeelyFeb2017">{{cita web|url=http://screenrant.com/avengers-infinity-war-thanos-rebalance-universe/|título=Infinity War: Thanos Wants To ‘Rebalance The Universe’|apellido=Welch|nombre=Alex|publisher=Screen Rant|fecha=14 de febrero de 2017|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6oHI0iKLg?url=http://screenrant.com/avengers-infinity-war-thanos-rebalance-universe/|fechaarchivo=14 de febrero de 2017|deadurl=no|idioma=inglés}}</ref>
+
+<ref name="IMAXRelease">{{cita web|url=http://deadline.com/2017/02/disney-films-show-imax-through-2019-new-distribution-deal-star-wars-1201938700/|título=Disney Films To Show On Imax Through 2019 With New Distribution Deal|apellido=Lieberman|nombre=David|obra=[[Deadline.com]]|fecha=22 de febrero de 2017|fechaacceso=26 de febrero de 2017|urlarchivo=https://www.webcitation.org/6oTt0ZsX5?url=http://deadline.com/2017/02/disney-films-show-imax-through-2019-new-distribution-deal-star-wars-1201938700/|fechaarchivo=23 de febrero de 2017|deadurl=no|idioma=inglés}}</ref>
+
+<ref name="Glaive">{{cita web|url=http://www.sensacine.com/noticias/cine/noticia-18555495/}}</ref>
+
+<ref name="Reparto_Cinemania">{{cita web|url=http://cinemania.elmundo.es/noticias/ya-sabemos-quien-saldra-y-quien-no-en-avengers-infinity-war/|título=Ya sabemos quién saldrá (y quién no) en ‘Avengers: Infinity War’|fecha=21 de diciembre de 2016|fechaacceso=17 de abril de 2017}}</ref>
+ -->
+== Enlaces externos ==
+* {{imdb título|4154756}}
+* {{tomatazos|26892/Avengers-Infinity-War}}
+* {{metacritic|avengers-infinity-war}}
+* {{rotten-tomatoes|avengers_infinity_war_part_i}}
+* {{boxofficemojo|marvel0518}}
+
+{{Control de autoridades}}
+[[Categoría:Películas de 2018]]
+[[Categoría:Películas en inglés]]
+[[Categoría:Películas de acción y ciencia ficción de los años 2010]]
+[[Categoría:Películas de superhéroes de los años 2010]]
+[[Categoría:Películas distribuidas en formato Digital 3D]]
+[[Categoría:Películas en 3D de Estados Unidos]]
+[[Categoría:Películas de Estados Unidos]]
+[[Categoría:Películas de acción y ciencia ficción de Estados Unidos]]
+[[Categoría:Películas de ciencia ficción y aventura de Estados Unidos]]
+[[Categoría:Películas de ciencia ficción fantástica]]
+[[Categoría:Películas de aventuras espaciales]]
+[[Categoría:Películas sobre el fin del mundo]]
+[[Categoría:Películas sobre extraterrestres]]
+[[Categoría:Películas con personajes antropomorfos]]
+[[Categoría:Películas ambientadas en los años 2010]]
+[[Categoría:Películas ambientadas en un país ficticio]]
+[[Categoría:Películas ambientadas en África]]
+[[Categoría:Películas ambientadas en Escocia]]
+[[Categoría:Películas ambientadas en Nueva York]]
+[[Categoría:Películas rodadas en Atlanta]]
+[[Categoría:Películas rodadas en Nueva York]]
+[[Categoría:Películas que utilizan imágenes generadas por computadora]]
+[[Categoría:Películas distribuidas en sistemas IMAX]]
+[[Categoría:Películas del universo cinematográfico de Marvel]]
+[[Categoría:Películas y series de Los Vengadores]]
+[[Categoría:Películas de Marvel Studios]]
+[[Categoría:Películas de captura de movimiento]]
+[[Categoría:Secuelas de películas]]
+[[Categoría:Series animadas influenciadas por anime]]
+[[Categoría:Películas de terror]]
+[[Categoría:Crossover cinematográficos]]
